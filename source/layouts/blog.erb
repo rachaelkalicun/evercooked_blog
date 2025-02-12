@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+  <head>
+		<%= partial "partials/head" %>
+		<title>Blog Title<%= ' - ' + current_article.title unless current_article.nil? %></title>
+    <%= feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed" %>
+		<%= partial "partials/recipe_schema_markup" %>
+  </head>
+  <body>
+		<%= partial "partials/header" %>
+		<%= partial "partials/signup" %>
+		
+		<main>
+			<img src="<%= current_page.data.main_image %>" alt="Logo" />
+			<%= yield %>
+			<aside>
+      <h2>Recent Articles</h2>
+      <ol>
+        <% blog.articles[0...10].each do |article| %>
+          <li><%= link_to article.title, article %> <span><%= article.date.strftime('%b %e') %></span></li>
+        <% end %>
+      </ol>
+
+      <h2>Tags</h2>
+      <ol>
+        <% blog.tags.each do |tag, articles| %>
+          <li><%= link_to "#{tag} (#{articles.size})", tag_path(tag) %></li>
+        <% end %>
+      </ol>
+		</main>
+		<%= partial "partials/footer" %>
+  </body>
+</html>
