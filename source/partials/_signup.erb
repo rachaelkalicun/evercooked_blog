@@ -6,8 +6,23 @@
 		<div class="flex justify-center">
 			<iframe src="https://evercooked.substack.com/embed" width="480" height="150"  frameborder="0" scrolling="no"></iframe>
 		</div>
-		<div class="text-[#d97706] font-semibold text-xs mb-4">
-			If you don't see the form, please disable your ad blocker to join our community!
-		</div>
+		<p id="adblock-warning" class="hidden text-[#d97706] font-semibold text-2xl mb-4 mt-4">
+			Please disable your ad blocker to join our community!
+		</p>
   </div>
 </section>
+
+<script>
+	function isIframeHidden() {
+		const iframe = document.querySelector('iframe[src="https://evercooked.substack.com/embed"]');
+		if (!iframe) return true;
+		
+		return iframe.offsetParent === null;
+	}
+
+	document.addEventListener("DOMContentLoaded", function () {
+		if (isIframeHidden()) {
+				document.getElementById("adblock-warning").classList.remove("hidden");
+		}
+	});
+</script>
