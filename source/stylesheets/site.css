@@ -4,7 +4,7 @@
 
 :root {
 	--body-background: #fff;
-	--body-color: #000;
+	--body-color: #171223;
 	--heading-color: #5960B2;
 	--action-color: #5960B2;
 }
@@ -35,7 +35,6 @@ ol {
 
 a {
 	color: var(--action-color);
-	/* text-decoration: underline; */
 	font-weight: 500;
 	text-decoration-color: #4C54A1;
 }
@@ -47,43 +46,23 @@ h1 {
 	line-height: 1.2;
 }
 
-body>header {
-	/* text-align: center; */
-	/* margin: 0 auto; */
-	/* max-width: 41rem; */
-}
-
 header a {
 	text-decoration: none;
 	color: #000;
 }
 
-.nav-holder {
-	background: #daf2de;
-}
-.main-wrapper {
+.main-wrapper,
+main,
+.main-width {
 	max-width: 64rem;
 	margin: 0 auto;
 }
 
 body>header ul {
-	margin: 2rem 0;
-	padding: 0;
-	display: flex;
-	justify-content: center;
-	gap: 1.5rem;
-	font-size: 1.3rem;
-	font-weight: bold;
-	max-width: 41rem;
+	gap: 1rem;
 	margin: 0 auto;
-	padding: 10px 20px;
+	padding: 10px 0;
 	list-style: none;
-}
-
-main,
-.main-width {
-	max-width: 41rem;
-	margin: 0 auto 1rem auto;
 }
 
 footer {
