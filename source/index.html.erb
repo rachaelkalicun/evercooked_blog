@@ -3,12 +3,9 @@ title: Evercooked description
 description: Evercooked description
 ---
 
-<div class="signup_holder">
+<div class="">
 	<div class="landing_container">
 		<div class="landing_left">
-			<div class="logo">
-				Evercooked
-			</div>
 			<div class="landing_content">
 				<% blog.articles[0...5].each do |article| %>
 					<article>
@@ -22,13 +19,6 @@ description: Evercooked description
 						<a href="<%= article.url %>">Read more</a>
 					</article>
 				<% end %>
-				<h1>Welcome to Evercooked</h1>
-				<p>Get the weekly email.</p>
-
-				<div class="signup">
-					<iframe src="https://evercooked.substack.com/embed" width="480" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>						<div class="disclaimer">
-
-				</div>
 			</div>
 		</div>
 		<div class="landing_right"></div>

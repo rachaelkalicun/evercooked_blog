@@ -1,0 +1,185 @@
+<header class="w-full bb-2 border-[#C5C5D2] bg-white shadow-sm top-0 z-50">
+
+    <!-- Flex Wrapper for Brand Name and Navbar -->
+    <div class="flex justify-between items-center px-4 py-2 flex-wrap main-wrapper">
+
+        <!-- Brand Name with Softer Color -->
+        <div>
+            <h1 class="text-2xl mb-0">
+                <a href="/" class="transition text-gray-800 alt_font">
+                    <?xml version="1.0" encoding="utf-8"?>
+                    <svg width="30px" height="30px" viewBox="100 100 200 200" fill="#ffffff" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M179.981 276.772C164.375 267.266 161.18 262.061 147.634 248.36C66.1022 165.898 137.157 112.457 172.866 125.376C179.595 127.81 187.269 135.311 195.888 147.877C198.083 137.546 204.354 129.251 214.702 122.992C286.701 79.4431 320.679 175.189 251.306 237.353C234.603 252.325 207.881 277.281 196.844 287.597" stroke="#f59e0b" stroke-opacity="0.9" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>Evercooked</a>
+            </h1>
+        </div>
+
+        <!-- Navbar -->
+        <nav>
+            <ul class="hidden md:flex space-x-6 text-sm text-gray-700">
+                <li><a href="/blog/" class="hover:text-amber-600 transition">Blog Posts</a></li>
+                <li><a href="/newsletters/" class="hover:text-amber-600 transition">Newsletters</a></li>
+                <li><a href="/about-evercooked/" class="hover:text-amber-600 transition">About</a></li>
+            </ul>
+        </nav>
+				<!-- Mobile Menu Button -->
+        <button class="md:hidden text-gray-700 focus:outline-none" id="menu-toggle">
+            <svg class="w-6 h-6" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M4 6h16M4 12h16M4 18h16"></path>
+            </svg>
+        </button>
+    </div>
+
+		   <!-- Mobile Dropdown -->
+    <div class="hidden md:hidden bg-amber-100 py-2" id="mobile-menu">
+        <ul class="flex flex-col items-center space-y-2 text-gray-700 text-sm">
+            <li><a href="/blog/" class="hover:text-amber-600 transition">Blog Posts</a></li>
+            <li><a href="/newsletters/" class="hover:text-amber-600 transition">Newsletters</a></li>
+            <li><a href="/about-evercooked/" class="hover:text-amber-600 transition">About</a></li>
+        </ul>
+    </div>
+
+    <script>
+        document.getElementById('menu-toggle').addEventListener('click', function() {
+            document.getElementById('mobile-menu').classList.toggle('hidden');
+        });
+    </script>
+
+</header>
+
+
+
+
+
+<!-- Dedicated CTA Section -->
+<section class="w-full px-6  pb-0 bg-white ">
+    <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
+            Join the Evercooked Family!
+        </h2>
+
+
+				<p class="mb-0">Get exclusive recipes, stories, and traditions delivered straight to your inbox.</p>
+				<p class="mt-0  mb-0">
+          Every dish draws us closer together. 
+        </p>
+        <!-- Substack Embed with Centering -->
+        <div class="flex justify-center">
+            <iframe src="https://evercooked.substack.com/embed" width="480" height="150"  frameborder="0" scrolling="no"></iframe>
+        </div>
+        
+			        <!-- Adblock Message with Standout Style -->
+        <div class="text-[#d97706] font-semibold text-xs mb-4">
+            If you don't see the form, please disable your ad blocker to join our community!
+        </div>
+    </div>
+</section>
+
+
+<!-- Featured Blog Posts & Newsletters -->
+<section class="w-full px-6 py-8 bg-[#f4f4f7]">
+    <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-xl md:text-2xl font-bold text-gray-900 mt-0">Latest from Evercooked</h2>
+        <p class="mt-3 text-lg text-gray-600">Stories, traditions, and flavors waiting to be explored.</p>
+    </div>
+
+    <!-- Featured Blog + Newsletters -->
+    <div class="max-w-5xl mx-auto mt-8 grid gap-6 md:grid-cols-2">
+        <!-- Featured Blog Post -->
+        <a href="/blog/post-1" class="p-6 bg-[#ffffff] rounded-lg shadow-sm hover:shadow-md transition block">
+            <div>
+                <img src="https://placehold.co/452x250" alt="Blog Post 1" class="rounded-lg mb-4">
+                <h3 class="text-xl font-semibold text-gray-900">
+                    The Secret to My Grandmother’s Bread
+                </h3>
+                <p class="mt-2 text-gray-600">A story of tradition, patience, and the perfect crust.</p>
+                <p class="mt-3 inline-block text-[#4C54A1] font-medium hover:text-[#5960B2] transition">Read more →</p>
+            </div>
+        </a>
+
+        <!-- Featured Newsletter -->
+        <a href="/newsletters/issue-1" class="p-6 bg-[#ffffff] rounded-lg shadow-sm hover:shadow-md transition block">
+            <div>
+                <img src="https://placehold.co/452x250" alt="Newsletter 1" class="rounded-lg mb-4">
+                <h3 class="text-xl font-semibold text-gray-900">
+                    This Month’s Table: Family Recipes & Their Stories
+                </h3>
+                <p class="mt-2 text-gray-600">A collection of cherished meals that bring us together.</p>
+                <p class="mt-3 inline-block text-[#4C54A1] font-medium hover:text-[#5960B2] transition">Read more →</p>
+            </div>
+        </a>
+    </div>
+
+<!-- Additional Blog Posts & Newsletters Section -->
+<div class="max-w-5xl mx-auto mt-12">
+    <div class="mb-8">
+        <!-- Blog Posts Section -->
+        <h3 class="text-2xl font-semibold text-gray-900">Blog Posts  </h3>
+        <div class="grid gap-6 mt-4 md:grid-cols-2 lg:grid-cols-3 bg-[#C5C5D2] p-6 rounded-lg">
+            <!-- Blog Post 1 -->
+            <a href="/blog/post-2" class="p-4 bg-white border border-gray-200 rounded-lg shadow-sm hover:shadow-md transition block">
+                <img src="https://placehold.co/400x250" alt="Blog Post 2" class="rounded-lg mb-4">
+                <h4 class="text-lg font-semibold text-gray-900">A Dish That Traveled Across Generations</h4>
+                <p class="mt-2 text-[#4C54A1]">Read more →</p>
+            </a>
+
+            <!-- Blog Post 2 -->
+            <a href="/blog/post-3" class="p-4 bg-white border border-gray-200 rounded-lg shadow-sm hover:shadow-md transition block">
+                <img src="https://placehold.co/400x250" alt="Blog Post 3" class="rounded-lg mb-4">
+                <h4 class="text-lg font-semibold text-gray-900">What Makes a Meal Memorable?</h4>
+                <p class="mt-2 text-[#4C54A1]">Read more →</p>
+            </a>
+
+            <!-- Blog Post 3 -->
+            <a href="/blog/post-4" class="p-4 bg-white border border-gray-200 rounded-lg shadow-sm hover:shadow-md transition block">
+                <img src="https://placehold.co/400x250" alt="Blog Post 4" class="rounded-lg mb-4">
+                <h4 class="text-lg font-semibold text-gray-900">Lost Recipes: Reviving Forgotten Flavors</h4>
+                <p class="mt-2 text-[#4C54A1]">Read more →</p>
+            </a>
+						
+        </div>
+				<div class="text-center mt-4">
+					<a href="/blog/" class="text-sm font-semibold text-[#4C54A1] hover:underline">View All Posts →</a>
+				</div>
+    </div>
+
+    <div class="mb-8">
+        <!-- Newsletter Section -->
+        <h3 class="text-2xl font-semibold text-gray-900">Newsletters </h3>
+        <div class="grid gap-6 mt-4 md:grid-cols-2 lg:grid-cols-3 bg-[#C5C5D2] p-6 rounded-lg">
+            <!-- Newsletter 1 -->
+            <a href="/newsletters/issue-2" class="p-4 bg-white border border-gray-200 rounded-lg shadow-sm hover:shadow-md transition block">
+                <img src="https://placehold.co/400x250" alt="Newsletter 2" class="rounded-lg mb-4">
+                <h4 class="text-lg font-semibold text-gray-900">The Spice That Connects Us All</h4>
+                <p class="mt-2 text-[#4C54A1]">Read more →</p>
+            </a>
+
+            <!-- Newsletter 2 -->
+            <a href="/newsletters/issue-3" class="p-4 bg-white border border-gray-200 rounded-lg shadow-sm hover:shadow-md transition block">
+                <img src="https://placehold.co/400x250" alt="Newsletter 3" class="rounded-lg mb-4">
+                <h4 class="text-lg font-semibold text-gray-900">Cooking as an Act of Love</h4>
+                <p class="mt-2 text-[#4C54A1]">Read more →</p>
+            </a>
+						<!-- Newsletter 2 -->
+            <a href="/newsletters/issue-3" class="p-4 bg-white border border-gray-200 rounded-lg shadow-sm hover:shadow-md transition block">
+                <img src="https://placehold.co/400x250" alt="Newsletter 3" class="rounded-lg mb-4">
+                <h4 class="text-lg font-semibold text-gray-900">Cooking as an Act of Love</h4>
+                <p class="mt-2 text-[#4C54A1]">Read more →</p>
+            </a>
+        </div>
+				<!-- Centered "View All Newsletters" Button -->
+			<div class="text-center mt-4">
+					<a href="/newsletters/" class="text-sm font-semibold text-[#4C54A1] hover:underline">View All Newsletters →</a>
+			</div>
+    </div>
+</div>
+
+		    <div class="flex flex-col items-center text-center ">
+        <h2 class="text-sm md:text-sm text-[#C5C5D2] leading-tight mb-0 mt-0 alt_font">
+            Cook with heart.  Remember with love.
+        </h2>
+				<p class="text-xs text-[#C5C5D2] leading-tight mt-0 mb-0">
+						© 2025 Evercooked. All rights reserved.
+				</p>
+    </div>
+</section>

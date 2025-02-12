@@ -5,8 +5,8 @@
 :root {
 	--body-background: #fff;
 	--body-color: #000;
-	--heading-color: #bd0d5e;
-	--action-color: #bd0d5e;
+	--heading-color: #5960B2;
+	--action-color: #5960B2;
 }
 
 body {
@@ -20,7 +20,7 @@ body {
 }
 
 .alt_font {
-	font-family: "Reenie Beanie", "Lato", sans-serif;
+	font-family: "Kalam", serif;
 }
 
 ul {
@@ -37,7 +37,7 @@ a {
 	color: var(--action-color);
 	/* text-decoration: underline; */
 	font-weight: 500;
-	text-decoration-color: #bd0d5e;
+	text-decoration-color: #4C54A1;
 }
 
 h1 {
@@ -48,8 +48,9 @@ h1 {
 }
 
 body>header {
-	text-align: center;
-	margin: 0 auto;
+	/* text-align: center; */
+	/* margin: 0 auto; */
+	/* max-width: 41rem; */
 }
 
 header a {
@@ -59,6 +60,10 @@ header a {
 
 .nav-holder {
 	background: #daf2de;
+}
+.main-wrapper {
+	max-width: 64rem;
+	margin: 0 auto;
 }
 
 body>header ul {
