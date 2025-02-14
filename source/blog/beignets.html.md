@@ -1,12 +1,12 @@
 ---
-title: Gumbo
+title: Beignets
 blog: blog
-date: "2025-02-10" 
-tags: gumbo, recipe, mardi gras, new orleans
+date: "2025-02-13"
+tags: recipes, mardi gras, new orleans, beignets
 layout: blog
-description: Brewing with a Chemex probably seems like a complicated, time-consuming
-featured_image: /images/featured/gumbo-with-shrimp.jpg
-category: main course
+description: Beignet description
+featured_image: /images/featured/beignets.jpg
+category: dessert
 ingredients:
   - 2 Tbsp Olive Oil
   - 2 lbs Lean Ground beef
@@ -34,7 +34,7 @@ instructions:
   - Serve and Enjoy!
 ---
 
-Hello Gumbo
+Hello Beignets
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus scelerisque quam vel nibh mattis pulvinar. Fusce ultricies cursus nibh, eget elementum eros congue molestie. Ut congue vehicula ipsum, ac sagittis urna commodo at. Mauris non sem neque. Donec lobortis eu ipsum at rhoncus. Aenean fermentum ante in dolor sagittis fringilla. Cras pretium, sapien et rutrum sollicitudin, odio lorem porttitor nulla, eu sagittis lectus ipsum id felis. Etiam nec nibh eu orci condimentum tempus vel et massa. Aenean eros odio, blandit at gravida et, auctor eu velit. Duis gravida interdum purus eget molestie.
 

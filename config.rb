@@ -17,6 +17,20 @@ activate :blog do |blog|
   blog.page_link = "page/{num}"
 end
 
+activate :blog do |blog|
+  blog.name    = "newsletters"
+  blog.prefix  = "newsletters"
+  blog.layout = "blog"
+  blog.sources = "{title}.html"
+  blog.permalink = "{title}"
+  blog.default_extension = ".md"
+  blog.taglink = "categories/{tag}.html"
+  blog.tag_template = "tag.html"
+  blog.paginate = true
+  blog.per_page = 10
+  blog.page_link = "page/{num}"
+end
+
 activate :autoprefixer do |prefix|
   prefix.browsers = "last 2 versions"
 end

@@ -2,26 +2,7 @@
 title: Evercooked description
 description: Evercooked description
 ---
+
 <%= partial "partials/featured_content" %>
+
 <%= partial "partials/latest_content" %>
-<div class="">
-	<div class="landing_container">
-		<div class="landing_left">
-			<div class="landing_content">
-				<% blog.articles[0...5].each do |article| %>
-					<article>
-						<h1>
-							<a href="<%= article.url %>"><%= article.title %></a>
-							<time><%= article.date.strftime('%b %e %Y') %></time>
-						</h1>
-
-						<%= article.summary %>
-
-						<a href="<%= article.url %>">Read more</a>
-					</article>
-				<% end %>
-			</div>
-		</div>
-		<div class="landing_right"></div>
-	</div>
-</div>

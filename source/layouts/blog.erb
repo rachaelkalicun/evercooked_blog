@@ -4,7 +4,7 @@
 		<%= partial "partials/head" %>
 		<title>Blog Title<%= ' - ' + current_article.title unless current_article.nil? %></title>
     <%= feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed" %>
-		<%= partial "partials/recipe_schema_markup" %>
+		<%#= partial "partials/recipe_schema_markup" %>
   </head>
   <body>
 		<%= partial "partials/header" %>
@@ -23,7 +23,7 @@
 						<%= partial "partials/signup_sidebar" %>
 					</div>
 					<main>
-						<img src="<%= current_page.data.main_image %>" alt="Logo" />
+						<img src="<%= current_page.data.featured_image %>" alt="Logo" />
 						<%= yield %>
 					</main>
 					<div class="block md:hidden lg:block">

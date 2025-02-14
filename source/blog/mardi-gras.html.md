@@ -1,40 +1,15 @@
 ---
-title: Gumbo
+title: MardiGras
 blog: blog
-date: "2025-02-10" 
-tags: gumbo, recipe, mardi gras, new orleans
+date: "2025-02-11"
+tags: mardi gras, new orleans, holidays, lent
 layout: blog
-description: Brewing with a Chemex probably seems like a complicated, time-consuming
-featured_image: /images/featured/gumbo-with-shrimp.jpg
-category: main course
-ingredients:
-  - 2 Tbsp Olive Oil
-  - 2 lbs Lean Ground beef
-  - 1 large yellow onion (diced)
-  - 3 cloves minced garlic
-  - 1 cup low sodium beef broth
-  - 2 14.5 oz cans diced Tomatoes with juice
-  - 2 15oz cans tomato sauce
-  - 2 tsp low sodium soy sauce
-  - 2 tsp salt
-  - 1 tsp black pepper
-  - 1 tbsp paprika
-  - 2 cups uncooked elbow macaroni
-  - 2 tsp Italian seasoning
-cuisine: American
-instructions:
-  - Heat soup pot on medium-high heat. Once hot, add oil, then ground beef.
-  - Cook ground beef until browned (about 10 minutes) and spoon off some excess
-    fat.
-  - Add diced onion and garlic. Cook for four minutes, stirring occasionally.
-  - Add beef broth, diced tomatoes, tomato sauce, soy sauce, salt, pepper,
-    Italian seasoning, and paprika. Stir well.
-  - Reduce heat to low, cover and cook for 15 minutes, stirring occasionally.
-  - Stir in uncooked macaroni noodles, cover and cook for an additional 15-25 minutes, or until pasta is cooked.
-  - Serve and Enjoy!
+description: Mardi Gras is blah, blah blah.
+featured_image: "/images/featured/new-orleans-jazz-band.jpg"
+category: hoiday
 ---
 
-Hello Gumbo
+Hello Mardi Gras
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus scelerisque quam vel nibh mattis pulvinar. Fusce ultricies cursus nibh, eget elementum eros congue molestie. Ut congue vehicula ipsum, ac sagittis urna commodo at. Mauris non sem neque. Donec lobortis eu ipsum at rhoncus. Aenean fermentum ante in dolor sagittis fringilla. Cras pretium, sapien et rutrum sollicitudin, odio lorem porttitor nulla, eu sagittis lectus ipsum id felis. Etiam nec nibh eu orci condimentum tempus vel et massa. Aenean eros odio, blandit at gravida et, auctor eu velit. Duis gravida interdum purus eget molestie.
 

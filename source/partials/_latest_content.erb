@@ -3,27 +3,13 @@
   	<div class="mb-8">
 			<h3 class="text-2xl font-semibold">Blog Posts</h3>
 			<div class="grid gap-6 mt-4 sm:grid-cols-2 lg:grid-cols-4 sm:bg-lightpurple sm:p-6 rounded-lg">
-				<a href="/blog/post-2" class="p-6 bg-white border border-gray-200 rounded-lg shadow-sm hover:shadow-md transition block text-body">
-					<img src="https://placehold.co/591x332" alt="Blog Post 2" class="rounded-lg mb-4">
-					<h4 class="text-lg font-semibold">A Dish That Traveled Across Generations</h4>
-					<p class="mt-2 text-link hover:text-linkhover transition">Read more →</p>
-				</a>
-				<a href="/blog/post-3" class="p-6 bg-white border border-gray-200 rounded-lg shadow-sm hover:shadow-md transition block text-body">
-					<img src="https://placehold.co/591x332" alt="Blog Post 3" class="rounded-lg mb-4">
-					<h4 class="text-lg font-semibold">What Makes a Meal Memorable?</h4>
-					<p class="mt-2 text-link hover:text-linkhover transition">Read more →</p>
-				</a>
-
-				<a href="/blog/post-4" class="p-6 bg-white border border-gray-200 rounded-lg shadow-sm hover:shadow-md transition block text-body">
-					<img src="https://placehold.co/591x332" alt="Blog Post 4" class="rounded-lg mb-4">
-					<h4 class="text-lg font-semibold">Lost Recipes: Reviving Forgotten Flavors</h4>
-					<p class="mt-2 text-link hover:text-linkhover transition">Read more →</p>
-				</a>
-				<a href="/blog/post-4" class="p-6 bg-white border border-gray-200 rounded-lg shadow-sm hover:shadow-md transition block text-body">
-					<img src="https://placehold.co/591x332" alt="Blog Post 4" class="rounded-lg mb-4">
-					<h4 class="text-lg font-semibold">Lost Recipes: Reviving Forgotten Flavors</h4>
-					<p class="mt-2 text-link hover:text-linkhover transition">Read more →</p>
-				</a>
+				<% blog('blog').articles[0...4].each do |article| %>
+					<a href="<%= article.url %>" class="p-6 bg-white border border-gray-200 rounded-lg shadow-sm hover:shadow-md transition block text-body">
+						<img src="<%= article.data.featured_image %>" alt="Blog Post 2" class="rounded-lg mb-4">
+						<h4 class="text-lg font-semibold"><%= article.title %></h4>
+						<p class="mt-2 text-link hover:text-linkhover transition">Read more →</p>
+					</a>
+				<% end %>
 			</div>
 			<div class="text-center mt-4">
 				<a href="/blog/" class="text-sm font-semibold text-link hover:text-linkhover transition">View All Posts →</a>
@@ -32,29 +18,16 @@
     <div class="mb-8">
     	<h3 class="text-2xl font-semibold">Newsletters </h3>
 			<div class="grid gap-6 mt-4 sm:grid-cols-2 lg:grid-cols-4 sm:bg-lightpurple sm:p-6 rounded-lg">
-				<a href="/newsletters/issue-2" class="p-6 bg-white border border-gray-200 rounded-lg shadow-sm hover:shadow-md transition block text-body">
-					<img src="https://placehold.co/591x332" alt="Newsletter 2" class="rounded-lg mb-4">
-					<h4 class="text-lg font-semibold">The Spice That Connects Us All</h4>
-					<p class="mt-2 text-link hover:text-linkhover transition">Read more →</p>
-				</a>
-				<a href="/newsletters/issue-3" class="p-6 bg-white border border-gray-200 rounded-lg shadow-sm hover:shadow-md transition block text-body">
-					<img src="https://placehold.co/591x332" alt="Newsletter 3" class="rounded-lg mb-4">
-					<h4 class="text-lg font-semibold">Cooking as an Act of Love</h4>
-					<p class="mt-2 text-link hover:text-linkhover transition">Read more →</p>
-				</a>
-				<a href="/newsletters/issue-3" class="p-6 bg-white border border-gray-200 rounded-lg shadow-sm hover:shadow-md transition block text-body">
-					<img src="https://placehold.co/591x332" alt="Newsletter 3" class="rounded-lg mb-4">
-					<h4 class="text-lg font-semibold">Cooking as an Act of Love</h4>
-					<p class="mt-2 text-link hover:text-linkhover transition">Read more →</p>
-				</a>
-				<a href="/newsletters/issue-3" class="p-6 bg-white border border-gray-200 rounded-lg shadow-sm hover:shadow-md transition block text-body">
-					<img src="https://placehold.co/591x332" alt="Newsletter 3" class="rounded-lg mb-4">
-					<h4 class="text-lg font-semibold">Cooking as an Act of Love</h4>
-					<p class="mt-2 text-link hover:text-linkhover transition">Read more →</p>
-				</a>
+				<% blog('newsletters').articles[0...4].each do |article| %>
+					<a href="<%= article.url %>" class="p-6 bg-white border border-gray-200 rounded-lg shadow-sm hover:shadow-md transition block text-body">
+						<img src="<%= article.data.featured_image %>" alt="Blog Post 2" class="rounded-lg mb-4">
+						<h4 class="text-lg font-semibold"><%= article.title %></h4>
+						<p class="mt-2 text-link hover:text-linkhover transition">Read more →</p>
+					</a>
+				<% end %>
 			</div>
 			<div class="text-center mt-4">
-					<a href="/newsletters/" class="text-sm font-semibold text-link hover:text-linkhover transition">View All Newsletters →</a>
+				<a href="/newsletters/" class="text-sm font-semibold text-link hover:text-linkhover transition">View All Newsletters →</a>
 			</div>
     </div>
 	</div>
