@@ -5,7 +5,7 @@
   </div>
   <div class="max-w-5xl mx-auto mt-8 grid gap-6 sm:grid-cols-2">
 		<% latest_post = blog('blog').articles.first %>
-  	<a href="/blog/<%= latest_post.url %>" class="p-6 bg-[#ffffff] rounded-lg shadow-sm hover:shadow-md transition block">
+  	<a href="<%= latest_post.url %>" class="p-6 bg-[#ffffff] rounded-lg shadow-sm hover:shadow-md transition block">
 			<div class="text-body">
 					<img src="<%= latest_post.data.featured_image %>" alt="Blog Post 1" class="rounded-lg mb-4">
 					<h3 class="text-xl font-semibold"><%= latest_post.title %></h3>
@@ -15,7 +15,7 @@
     </a>
 
 		<% latest_newsletter = blog('newsletters').articles.first %>
-  	<a href="/newsletters/<%= latest_newsletter.url %>" class="p-6 bg-[#ffffff] rounded-lg shadow-sm hover:shadow-md transition block">
+  	<a href="<%= latest_newsletter.url %>" class="p-6 bg-[#ffffff] rounded-lg shadow-sm hover:shadow-md transition block">
 			<div class="text-body">
 				<img src="<%= latest_newsletter.data.featured_image %>" alt="Blog Post 1" class="rounded-lg mb-4">
 				<h3 class="text-xl font-semibold"><%= latest_newsletter.title %></h3>
