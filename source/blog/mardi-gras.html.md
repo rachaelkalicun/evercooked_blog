@@ -6,10 +6,8 @@ tags: mardi gras, new orleans, holidays, lent
 layout: blog
 description: Mardi Gras is blah, blah blah.
 featured_image: "/images/featured/new-orleans-jazz-band.jpg"
-category: hoiday
+category: holiday
 ---
-
-Hello Mardi Gras
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus scelerisque quam vel nibh mattis pulvinar. Fusce ultricies cursus nibh, eget elementum eros congue molestie. Ut congue vehicula ipsum, ac sagittis urna commodo at. Mauris non sem neque. Donec lobortis eu ipsum at rhoncus. Aenean fermentum ante in dolor sagittis fringilla. Cras pretium, sapien et rutrum sollicitudin, odio lorem porttitor nulla, eu sagittis lectus ipsum id felis. Etiam nec nibh eu orci condimentum tempus vel et massa. Aenean eros odio, blandit at gravida et, auctor eu velit. Duis gravida interdum purus eget molestie.
 
