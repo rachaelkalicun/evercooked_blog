@@ -3,7 +3,7 @@ title: Cafe Au Lait
 blog: blog
 date: "2025-02-10"
 tags: cafe au lait, recipe, mardi gras, new orleans, lent, coffee
-layout: blog
+layout: split
 description: Cafe Au Lait description
 featured_image: /images/featured/cafe-au-lait.jpg
 category: drink

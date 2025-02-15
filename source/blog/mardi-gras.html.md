@@ -3,7 +3,7 @@ title: MardiGras
 blog: blog
 date: "2025-02-11"
 tags: mardi gras, new orleans, holidays, lent
-layout: blog
+layout: split
 description: Mardi Gras is blah, blah blah.
 featured_image: "/images/featured/new-orleans-jazz-band.jpg"
 category: holiday

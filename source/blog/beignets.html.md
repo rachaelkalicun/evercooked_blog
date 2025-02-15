@@ -3,7 +3,7 @@ title: Beignets
 blog: blog
 date: "2025-02-13"
 tags: recipes, mardi gras, new orleans, beignets
-layout: blog
+layout: split
 description: Beignet description
 featured_image: /images/featured/beignets.jpg
 category: dessert

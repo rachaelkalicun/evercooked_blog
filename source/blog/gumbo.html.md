@@ -3,7 +3,7 @@ title: Gumbo
 blog: blog
 date: "2025-02-10" 
 tags: gumbo, recipe, mardi gras, new orleans
-layout: blog
+layout: split
 description: Brewing with a Chemex probably seems like a complicated, time-consuming
 featured_image: /images/featured/gumbo-with-shrimp.jpg
 category: main course

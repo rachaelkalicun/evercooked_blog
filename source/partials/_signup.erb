@@ -4,25 +4,35 @@
 		<p class="mb-0">Get recipes, stories, and traditions delivered straight to your inbox.</p>
 		<p class="mt-0 mb-0">Every dish draws us closer together.</p>
 		<div class="flex justify-center">
-			<iframe src="https://evercooked.substack.com/embed" width="480" height="150"  frameborder="0" scrolling="no"></iframe>
+			<iframe id="signup-main" src="https://evercooked.substack.com/embed" width="480" height="150"  frameborder="0" scrolling="no"></iframe>
 		</div>
-		<p id="adblock-warning" class="hidden text-accent font-semibold text-2xl mb-4 mt-4">
+		<p id="adblock-warning-main" class="hidden text-[#d97706] font-semibold text-2xl mb-4 mt-4">
 			Please disable your ad blocker to join our community!
 		</p>
   </div>
 </section>
 
 <script>
-	function isIframeHidden() {
-		const iframe = document.querySelector('iframe[src="https://evercooked.substack.com/embed"]');
-		if (!iframe) return true;
-		
-		return iframe.offsetParent === null;
-	}
+  function isIframeHiddenMain() {
+    const iframe = document.getElementById("signup-main");
+    if (!iframe) return true;
+    return iframe.offsetParent === null;
+  }
 
-	document.addEventListener("DOMContentLoaded", function () {
-		if (isIframeHidden()) {
-				document.getElementById("adblock-warning").classList.remove("hidden");
-		}
-	});
+  function toggleWarningMain() {
+    const warning = document.getElementById("adblock-warning-main");
+    if (isIframeHiddenMain()) {
+      warning.classList.remove("hidden");
+    } else {
+      warning.classList.add("hidden");
+    }
+  }
+
+  document.addEventListener("DOMContentLoaded", function () {
+    toggleWarningMain();
+  });
+
+  window.addEventListener("resize", function () {
+    toggleWarningMain();
+  });
 </script>

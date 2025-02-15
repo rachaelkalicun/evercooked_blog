@@ -3,7 +3,7 @@ title: King Cake
 blog: blog
 date: "2025-02-08"
 tags: king cake, recipe, mardi gras, new orleans, lent
-layout: blog
+layout: split
 description: King Cake description
 featured_image: "/images/featured/king-cake.jpg"
 category: dessert

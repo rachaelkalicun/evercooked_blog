@@ -3,7 +3,7 @@ title: Pre-Lent Traditions - Mardi Gras and Shrove Tuesday
 blog: blog
 date: "2025-02-10"
 tags: lent, recipe, mardi gras, new orleans, shrove tuesday
-layout: blog
+layout: split
 description: Pre-Lent traditions
 featured_image: /images/featured/crepes.jpg
 category: main course
