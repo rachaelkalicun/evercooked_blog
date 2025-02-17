@@ -1,31 +1,33 @@
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Recipe",
-  "name": "Gumbo",
-  "image": "/images<%= current_page.data.featured_image %>",
-  "author": {
-    "@type": "Person",
-    "name": "Rachael Kalicun"
-  },
-  "datePublished": "<%= current_page.data.date %>",
-  "description": "<%= current_page.data.description %>",
-  "keywords": "<%= current_page.data.tags %>",
-  "recipeCategory": "<%= current_page.data.category %>",
-  "recipeCuisine": "<%= current_page.data.cuisine %>",
-  "recipeIngredient": [
-		<% current_page.data.ingredients.each_with_index do |ingredient, index| %>
-			"<%= ingredient %>"<%= index == current_page.data.ingredients.length - 1 ? '' : ',' %>
-		<% end %>
-	],
-  "recipeInstructions": [
-		<% current_page.data.instructions.each_with_index do |instruction, index| %>
-			{
-				"@type": "HowToStep",
-				"text": "<%= instruction %>",
-				"position": <%= index + 1 %>
-			}<%= index == current_page.data.instructions.length - 1 ? '' : ',' %>
-		<% end %>
-  ]
-}
-</script>
+<% if current_page.data.category == 'recipe' %>
+	<script type="application/ld+json">
+	{
+		"@context": "https://schema.org",
+		"@type": "Recipe",
+		"name": "Gumbo",
+		"image": "/images<%= current_page.data.featured_image %>",
+		"author": {
+			"@type": "Person",
+			"name": "Rachael Kalicun"
+		},
+		"datePublished": "<%= current_page.data.date %>",
+		"description": "<%= current_page.data.description %>",
+		"keywords": "<%= current_page.data.tags %>",
+		"recipeCategory": "<%= current_page.data.category %>",
+		"recipeCuisine": "<%= current_page.data.cuisine %>",
+		"recipeIngredient": [
+			<% current_page.data.ingredients.each_with_index do |ingredient, index| %>
+				"<%= ingredient %>"<%= index == current_page.data.ingredients.length - 1 ? '' : ',' %>
+			<% end %>
+		],
+		"recipeInstructions": [
+			<% current_page.data.instructions.each_with_index do |instruction, index| %>
+				{
+					"@type": "HowToStep",
+					"text": "<%= instruction %>",
+					"position": <%= index + 1 %>
+				}<%= index == current_page.data.instructions.length - 1 ? '' : ',' %>
+			<% end %>
+		]
+	}
+	</script>
+<% end %>
