@@ -1,10 +1,10 @@
 ---
-title: "The Meditative Art of Making Gumbo: Flavorful Recipe with Vegetarian & Meat Options"
+title: "Best Gumbo Recipe: How to Make Vegetarian or Meat Gumbo"
 blog: blog
 date: "2025-02-17"
 tags: gumbo, recipe, mardi gras, new orleans, cajun, creole
 layout: split
-description: Discover the meditative art of making gumbo with this flavorful, step-by-step recipe. Learn how to create a rich roux and customize your gumbo with both vegetarian and meat options for a delicious, comforting dish.
+description: Discover the meditative art of making gumbo with this step-by-step recipe. Create a rich roux and customize your gumbo with both vegetarian and meat options.
 featured_image: /images/featured/gumbo-with-shrimp.jpg
 category: recipe
 ingredients:
@@ -36,7 +36,6 @@ instructions:
   - "Simmer the Gumbo: Pour in the stock and add the tomatoes and okra. Bring it to a gentle simmer and let it cook for 30 minutes to an hour. Stir occasionally so it doesn't stick to the bottom of the pan."
   - "Prepare the Protein: While the gumbo cooks, sauté the vegetarian meat if using until browned. If making the meat version, sauté the sausage."
   - "Finish & Serve: Stir the protein into the gumbo and let everything meld for 15 minutes. If using shrimp, add at the very end and let cook just until pink. Serve in bowls with a sprinkle of filé powder on top and a scoop of rice if you want."
-
 ---
 
 # The Meditative Art of Making Gumbo: A Rich, Flavorful Tradition
