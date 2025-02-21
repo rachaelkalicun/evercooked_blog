@@ -1,47 +1,20 @@
 ---
-title: Pre-Lent Traditions - Mardi Gras and Shrove Tuesday
+title: Food, Tradition, and the Pre-Lenten Table
 blog: blog
 date: "2025-02-10"
-tags: lent, recipe, mardi gras, new orleans, shrove tuesday
+tags: lent, recipe, mardi gras, shrove tuesday, king cake, pancakes, food traditions
 layout: split
-description: Pre-Lent traditions
+description: How Mardi Gras and Shrove Tuesday connect food, history, and ritual
 featured_image: /images/featured/crepes.jpg
-category: main course
-ingredients:
-  - 2 Tbsp Olive Oil
-  - 2 lbs Lean Ground beef
-  - 1 large yellow onion (diced)
-  - 3 cloves minced garlic
-  - 1 cup low sodium beef broth
-  - 2 14.5 oz cans diced Tomatoes with juice
-  - 2 15oz cans tomato sauce
-  - 2 tsp low sodium soy sauce
-  - 2 tsp salt
-  - 1 tsp black pepper
-  - 1 tbsp paprika
-  - 2 cups uncooked elbow macaroni
-  - 2 tsp Italian seasoning
-cuisine: American
-instructions:
-  - Heat soup pot on medium-high heat. Once hot, add oil, then ground beef.
-  - Cook ground beef until browned (about 10 minutes) and spoon off some excess
-    fat.
-  - Add diced onion and garlic. Cook for four minutes, stirring occasionally.
-  - Add beef broth, diced tomatoes, tomato sauce, soy sauce, salt, pepper,
-    Italian seasoning, and paprika. Stir well.
-  - Reduce heat to low, cover and cook for 15 minutes, stirring occasionally.
-  - Stir in uncooked macaroni noodles, cover and cook for an additional 15-25 minutes, or until pasta is cooked.
-  - Serve and Enjoy!
+category: food culture
 ---
 
-Hello Pre-Lent Traditions
+The days leading up to Lent are a time of indulgence, preparation, and, for many, a last hurrah before the season of reflection begins. Across cultures, the pre-Lenten period is marked by food traditions that bring people together in celebration. For me, this time is tied to memories of Mardi Gras and Shrove Tuesday, two different but equally rich traditions that remind me how food carries both history and meaning.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus scelerisque quam vel nibh mattis pulvinar. Fusce ultricies cursus nibh, eget elementum eros congue molestie. Ut congue vehicula ipsum, ac sagittis urna commodo at. Mauris non sem neque. Donec lobortis eu ipsum at rhoncus. Aenean fermentum ante in dolor sagittis fringilla. Cras pretium, sapien et rutrum sollicitudin, odio lorem porttitor nulla, eu sagittis lectus ipsum id felis. Etiam nec nibh eu orci condimentum tempus vel et massa. Aenean eros odio, blandit at gravida et, auctor eu velit. Duis gravida interdum purus eget molestie.
+Mardi Gras, with its parades, beads, and revelry, is more than just a party. At its heart, it’s a communal experience, a moment when food, music, and history intertwine. The smell of king cake—sweet, spiced, and often filled with cream cheese or praline—lingers in the air. There’s something special about slicing into one, hoping to find the tiny plastic baby hidden inside. Some might see it as a fun novelty, but to me, it’s a quiet reminder of continuity: whoever finds the baby hosts the next gathering, ensuring the tradition lives on.
 
-Cras nec viverra quam. Pellentesque interdum sodales eros eu porttitor. Etiam vitae mauris quis risus facilisis aliquet. Curabitur pharetra suscipit tellus. Donec efficitur condimentum enim, sit amet molestie dui molestie ac. In vitae ligula molestie ante vestibulum sodales malesuada nec neque. Donec nec porttitor arcu. Nunc quis suscipit mi, eget dignissim arcu. Vestibulum faucibus interdum magna. Morbi lacinia ultrices laoreet. Aenean luctus augue dolor, mollis interdum tortor fermentum ut. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec ut nulla dapibus lacus porttitor maximus. Donec et leo ac dolor tempus pulvinar.
+Then comes Shrove Tuesday, a softer, homier ritual. In contrast to the exuberance of Mardi Gras, this day is about using up what’s left—flour, butter, eggs—before the fasting season begins. Pancakes take center stage, light and golden, sometimes doused in syrup or sprinkled with sugar and lemon. It’s a simple meal, but it carries weight. Flipping pancakes in the kitchen, watching batter turn to something warm and nourishing, I think of the generations before me who did the same, their own hands mixing and flipping, making sure nothing went to waste.
 
-Quisque vitae libero id sem ornare efficitur. Phasellus molestie tortor ac quam lobortis finibus eu at odio. Morbi consequat arcu vel leo vehicula, nec iaculis augue volutpat. Ut vitae venenatis nisl. Aliquam sapien orci, sodales in metus eu, sagittis dictum elit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer sem sapien, sodales id aliquet sed, venenatis sed felis.
+These traditions, though different in their energy, share a common thread: food as a bridge. They connect past to present, family to community, indulgence to discipline. Whether it’s the vibrant joy of Mardi Gras or the quiet reflection of Shrove Tuesday, both are reminders that food is never just food—it’s history, it’s ritual, it’s love and legacy.
 
-Ut consequat tortor sapien, vel fringilla mauris aliquet vitae. In porttitor dignissim felis eget tincidunt. Phasellus augue odio, blandit at augue vel, mollis convallis orci. Duis finibus vel leo eget varius. Aliquam eget magna ut ipsum cursus dapibus vel vitae sapien. Vivamus tincidunt nec ligula vitae condimentum. Nunc id ex bibendum, laoreet elit sed, laoreet enim. Vivamus aliquam vel magna vitae bibendum. Praesent ut placerat nibh, ut blandit dui. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec velit ligula, tincidunt ac consectetur sed, rutrum vitae nibh. Etiam euismod iaculis eros ut tristique. Curabitur finibus lorem sit amet justo varius bibendum.
-
-Mauris consectetur placerat neque vel consequat. Pellentesque sem ligula, fermentum rhoncus fringilla sit amet, facilisis at orci. Maecenas nec rhoncus ante. Aliquam quis ornare nisl. Nam molestie finibus lectus, vitae bibendum tellus scelerisque quis. Integer bibendum condimentum augue eu vulputate. Ut vitae nulla non nunc scelerisque fermentum. Integer ultricies tincidunt tortor, in rhoncus dolor laoreet ac.
+As Evercooked grows, I think about these moments and how many of us have stories like this—meals that mark time, recipes passed down, dishes that say more than words ever could. Maybe you have a pre-Lent tradition too, whether it’s a feast, a favorite dish, or a simple ritual in your kitchen. I’d love to hear about it. Share your story using #TraditionAndTable, and let’s celebrate the meals that tie us to something bigger than ourselves.
