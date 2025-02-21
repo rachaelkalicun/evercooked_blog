@@ -10,7 +10,8 @@ module.exports = {
         linkhover: "#363a6d",
         accent: "#d97706",
         backgroundlight: "#e1e1e1",
-        lightpurple: "#C5C5D2",
+        purple: "#C5C5D2",
+				lightpurple: "#eaeaef",
         body: "#171223",
       },
 			fontFamily: {

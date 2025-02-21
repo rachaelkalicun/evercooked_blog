@@ -23,18 +23,18 @@ ingredients:
   - 1 tsp vanilla extract
   - 1/2 cup granulated sugar
   - Food coloring
+cuisine: Cajun, Creole
 
 instructions:
   - Feed your starter a few days before baking to ensure it’s bubbly and active. Store at room temperature until ready.
   - Warm the milk and 85 g (6 tbsp) butter in a small saucepan or microwave. Let cool slightly.
-  - Add the egg, egg yolks, sourdough starter, and sugar to the bowl of a stand mixer. Mix to combine using the paddle attachment. Slowly pour in the warm milk mixture. Add flour and salt, mixing until a rough dough forms. Cover with a damp towel and rest for 30 minutes.
+  - Add the egg, egg yolks, sourdough starter, and sugar to the bowl of a stand mixer. Mix to combine using the paddle attachment. Slowly pour in the warm milk mixture. Add flour and salt, mixing  until a rough dough forms. Cover with a damp towel and rest for 30 minutes.
   - Switch to the dough hook and knead on medium-low speed for 6 to 8 minutes. Adjust with flour if too sticky. The dough should be soft, smooth, and slightly tacky.
   - Transfer the dough to a lightly oiled bowl. Cover with a damp towel and let rise at room temperature for 8 to 10 hours (or overnight).
-  - Preheat your oven to 375°F (190°C). Line a sheet pan with parchment paper or a silicone mat. Remove the dough onto a lightly oiled surface, rest for 5–10 minutes. Roll into a 15 x 10-inch rectangle. Roll it into a tight log, seam side down, and shape into a ring. Let rest for 10–15 minutes.
+  - Preheat your oven to 375°F (190°C). Line a sheet pan with parchment paper or a silicone mat. Remove the dough onto a lightly oiled surface, rest for 5–10 minutes. Roll into a 15 x 10-inch  rectangle. Roll it into a tight log, seam side down, and shape into a ring. Let rest for 10–15 minutes.
   - Brush with melted butter. Cover and let rise until puffy, about 1 hour.
-  - Bake at 375°F (190°C) for 20–25 minutes, then reduce to 350°F (180°C) for 10–15 more minutes. The cake should be golden brown and hollow-sounding when tapped.
+  - "Bake at 375°F (190°C) for 20–25 minutes, then reduce to 350°F (180°C) for 10–15 more minutes. The cake should be golden brown and hollow-sounding when tapped."
   - Once cooled, decorate with glaze and colored sugar.
-	cuisine: Cajun, Creole
 ---
 
 # Sourdough King Cake: A Tradition to Share and Make Your Own
@@ -43,6 +43,8 @@ instructions:
 <a href="#sourdough-king-cake-recipe" class="inline-block bg-link text-white py-1 px-2 rounded-sm text-xs hover:bg-opacity-90">
   Jump to Recipe
 </a>
+
+<img src="/images/mardi-gras-2025/king-cake.jpg" alt="Mardi Gras King Cake"/>
 
 King Cake is a celebration of tradition and community. In New Orleans, people eat it from January 6, known as Epiphany. This day celebrates when the three wise men visited baby Jesus. They continue eating it until Mardi Gras. A plastic baby is inside, bringing luck and prosperity to the lucky person.
 
