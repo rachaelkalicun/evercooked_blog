@@ -1,47 +1,49 @@
 ---
-title: Cafe Au Lait
+title: Café Au Lait
 blog: blog
 date: "2025-02-10"
 tags: cafe au lait, recipe, mardi gras, new orleans, lent, coffee
 layout: split
-description: Cafe Au Lait description
+description: The deep, roasted flavor of chicory balances the richness of warm milk, creating a drink that’s both bold and comforting.
 featured_image: /images/featured/cafe-au-lait.jpg
 category: drink
+cuisine: Creole
 ingredients:
-  - 2 Tbsp Olive Oil
-  - 2 lbs Lean Ground beef
-  - 1 large yellow onion (diced)
-  - 3 cloves minced garlic
-  - 1 cup low sodium beef broth
-  - 2 14.5 oz cans diced Tomatoes with juice
-  - 2 15oz cans tomato sauce
-  - 2 tsp low sodium soy sauce
-  - 2 tsp salt
-  - 1 tsp black pepper
-  - 1 tbsp paprika
-  - 2 cups uncooked elbow macaroni
-  - 2 tsp Italian seasoning
-cuisine: American
+  - 4 tbsp coarsely ground coffee
+  - 1 tbsp roasted chicory
+  - 2 cups water
+  - 1 cup whole milk
+  - 1–2 tsp sugar (optional)
 instructions:
-  - Heat soup pot on medium-high heat. Once hot, add oil, then ground beef.
-  - Cook ground beef until browned (about 10 minutes) and spoon off some excess
-    fat.
-  - Add diced onion and garlic. Cook for four minutes, stirring occasionally.
-  - Add beef broth, diced tomatoes, tomato sauce, soy sauce, salt, pepper,
-    Italian seasoning, and paprika. Stir well.
-  - Reduce heat to low, cover and cook for 15 minutes, stirring occasionally.
-  - Stir in uncooked macaroni noodles, cover and cook for an additional 15-25 minutes, or until pasta is cooked.
-  - Serve and Enjoy!
+  - Mix the ground coffee and chicory in a French press.
+  - Heat the water just below boiling and pour it over the grounds. Stir gently and steep for 4 minutes before pressing.
+  - Heat the milk in a saucepan over medium heat. Stir in sugar if using, dissolving it completely. Just before it reaches a simmer, remove from heat.
+  - Pour equal parts coffee and hot milk into a mug. Stir gently and sip slowly.
 ---
 
-Hello Cafe Au Lait
+# The Ritual of New Orleans Café au Lait
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus scelerisque quam vel nibh mattis pulvinar. Fusce ultricies cursus nibh, eget elementum eros congue molestie. Ut congue vehicula ipsum, ac sagittis urna commodo at. Mauris non sem neque. Donec lobortis eu ipsum at rhoncus. Aenean fermentum ante in dolor sagittis fringilla. Cras pretium, sapien et rutrum sollicitudin, odio lorem porttitor nulla, eu sagittis lectus ipsum id felis. Etiam nec nibh eu orci condimentum tempus vel et massa. Aenean eros odio, blandit at gravida et, auctor eu velit. Duis gravida interdum purus eget molestie.
+Café au lait in New Orleans is more than coffee with milk—it's tradition in a cup. The deep, roasted flavor of chicory balances the richness of warm milk, creating a drink that’s both bold and comforting. Sipped alongside beignets dusted in powdered sugar, it’s a taste of the city’s French and Creole heritage.
 
-Cras nec viverra quam. Pellentesque interdum sodales eros eu porttitor. Etiam vitae mauris quis risus facilisis aliquet. Curabitur pharetra suscipit tellus. Donec efficitur condimentum enim, sit amet molestie dui molestie ac. In vitae ligula molestie ante vestibulum sodales malesuada nec neque. Donec nec porttitor arcu. Nunc quis suscipit mi, eget dignissim arcu. Vestibulum faucibus interdum magna. Morbi lacinia ultrices laoreet. Aenean luctus augue dolor, mollis interdum tortor fermentum ut. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec ut nulla dapibus lacus porttitor maximus. Donec et leo ac dolor tempus pulvinar.
+Making it at home is an exercise in simplicity and rhythm. The steps are few, but each plays a role in creating that signature balance of strength and smoothness.
 
-Quisque vitae libero id sem ornare efficitur. Phasellus molestie tortor ac quam lobortis finibus eu at odio. Morbi consequat arcu vel leo vehicula, nec iaculis augue volutpat. Ut vitae venenatis nisl. Aliquam sapien orci, sodales in metus eu, sagittis dictum elit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer sem sapien, sodales id aliquet sed, venenatis sed felis.
+Café au lait is best enjoyed unrushed. Whether in a quiet morning moment or shared with company, it’s a small ritual that carries the warmth of New Orleans with every cup.
 
-Ut consequat tortor sapien, vel fringilla mauris aliquet vitae. In porttitor dignissim felis eget tincidunt. Phasellus augue odio, blandit at augue vel, mollis convallis orci. Duis finibus vel leo eget varius. Aliquam eget magna ut ipsum cursus dapibus vel vitae sapien. Vivamus tincidunt nec ligula vitae condimentum. Nunc id ex bibendum, laoreet elit sed, laoreet enim. Vivamus aliquam vel magna vitae bibendum. Praesent ut placerat nibh, ut blandit dui. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec velit ligula, tincidunt ac consectetur sed, rutrum vitae nibh. Etiam euismod iaculis eros ut tristique. Curabitur finibus lorem sit amet justo varius bibendum.
+## Ingredients
 
-Mauris consectetur placerat neque vel consequat. Pellentesque sem ligula, fermentum rhoncus fringilla sit amet, facilisis at orci. Maecenas nec rhoncus ante. Aliquam quis ornare nisl. Nam molestie finibus lectus, vitae bibendum tellus scelerisque quis. Integer bibendum condimentum augue eu vulputate. Ut vitae nulla non nunc scelerisque fermentum. Integer ultricies tincidunt tortor, in rhoncus dolor laoreet ac.
+- 4 tbsp coarsely ground coffee
+- 1 tbsp roasted chicory
+- 2 cups water
+- 1 cup whole milk
+- 1–2 tsp sugar (optional)
+
+## Instructions
+
+### **1. Brew the Coffee**
+Mix the ground coffee and chicory in a French press. Heat the water just below boiling and pour it over the grounds. Stir gently and steep for 4 minutes before pressing.
+
+### **2. Warm the Milk**
+Heat the milk in a saucepan over medium heat. Stir in sugar if using, dissolving it completely. Just before it reaches a simmer, remove from heat.
+
+### **3. Combine & Serve**
+Pour equal parts coffee and hot milk into a mug. Stir gently and sip slowly.

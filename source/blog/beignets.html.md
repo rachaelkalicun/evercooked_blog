@@ -1,47 +1,68 @@
 ---
-title: Beignets
+title: Sourdough Beignets
 blog: blog
 date: "2025-02-13"
-tags: recipes, mardi gras, new orleans, beignets
+tags: recipes, mardi gras, new orleans, beignets, sourdough
 layout: split
-description: Beignet description
-featured_image: /images/featured/beignets.jpg
+description: Light, airy sourdough beignets with a crisp golden exterior and a subtle tang from natural fermentation.
+featured_image: /images/featured/sourdough-beignets.jpg
 category: dessert
 ingredients:
-  - 2 Tbsp Olive Oil
-  - 2 lbs Lean Ground beef
-  - 1 large yellow onion (diced)
-  - 3 cloves minced garlic
-  - 1 cup low sodium beef broth
-  - 2 14.5 oz cans diced Tomatoes with juice
-  - 2 15oz cans tomato sauce
-  - 2 tsp low sodium soy sauce
-  - 2 tsp salt
-  - 1 tsp black pepper
-  - 1 tbsp paprika
-  - 2 cups uncooked elbow macaroni
-  - 2 tsp Italian seasoning
-cuisine: American
+  - 100 g (3/4 cup) bubbly, active sourdough starter
+  - 240 g (1 cup) warm milk
+  - 50 g (1/4 cup) granulated sugar
+  - 1 large egg
+  - 30 g (2 tbsp) unsalted butter, melted
+  - 375 g (3 cups) all-purpose flour
+  - 3 g (1/2 tsp) fine sea salt
+  - Oil, for frying
+  - Powdered sugar, for dusting
+cuisine: New Orleans
 instructions:
-  - Heat soup pot on medium-high heat. Once hot, add oil, then ground beef.
-  - Cook ground beef until browned (about 10 minutes) and spoon off some excess
-    fat.
-  - Add diced onion and garlic. Cook for four minutes, stirring occasionally.
-  - Add beef broth, diced tomatoes, tomato sauce, soy sauce, salt, pepper,
-    Italian seasoning, and paprika. Stir well.
-  - Reduce heat to low, cover and cook for 15 minutes, stirring occasionally.
-  - Stir in uncooked macaroni noodles, cover and cook for an additional 15-25 minutes, or until pasta is cooked.
-  - Serve and Enjoy!
+  - Mix the sourdough starter, warm milk, sugar, egg, and melted butter in a large bowl.
+  - Add the flour and salt, mixing until a rough dough forms. Cover and let rest for 30 minutes.
+  - Knead until smooth and elastic, about 8 minutes. Transfer to an oiled bowl, cover, and let rise at room temperature for 8-10 hours (or overnight).
+  - Roll out the dough to 1/4-inch thickness and cut into squares. Let them rest for 30-60 minutes until puffy.
+  - Heat oil in a deep pan to 350°F (175°C). Fry beignets in batches until golden brown, about 1-2 minutes per side.
+  - Drain on paper towels and generously dust with powdered sugar. Serve warm.
 ---
 
-Hello Beignets
+# Sourdough Beignets: A Classic with Depth
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus scelerisque quam vel nibh mattis pulvinar. Fusce ultricies cursus nibh, eget elementum eros congue molestie. Ut congue vehicula ipsum, ac sagittis urna commodo at. Mauris non sem neque. Donec lobortis eu ipsum at rhoncus. Aenean fermentum ante in dolor sagittis fringilla. Cras pretium, sapien et rutrum sollicitudin, odio lorem porttitor nulla, eu sagittis lectus ipsum id felis. Etiam nec nibh eu orci condimentum tempus vel et massa. Aenean eros odio, blandit at gravida et, auctor eu velit. Duis gravida interdum purus eget molestie.
+Beignets are a staple in New Orleans, a deep-fried delight dusted in powdered sugar. They're tied to the city's café culture, best enjoyed with a strong cup of coffee. While typically made with commercial yeast, using a sourdough starter brings depth and a slight tang, balancing the sweetness.
 
-Cras nec viverra quam. Pellentesque interdum sodales eros eu porttitor. Etiam vitae mauris quis risus facilisis aliquet. Curabitur pharetra suscipit tellus. Donec efficitur condimentum enim, sit amet molestie dui molestie ac. In vitae ligula molestie ante vestibulum sodales malesuada nec neque. Donec nec porttitor arcu. Nunc quis suscipit mi, eget dignissim arcu. Vestibulum faucibus interdum magna. Morbi lacinia ultrices laoreet. Aenean luctus augue dolor, mollis interdum tortor fermentum ut. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec ut nulla dapibus lacus porttitor maximus. Donec et leo ac dolor tempus pulvinar.
+This version follows a long fermentation process, developing flavor overnight. The dough is light yet structured, yielding crisp edges and a soft, airy center. If you have a bubbly, active starter, you’re already halfway there.
 
-Quisque vitae libero id sem ornare efficitur. Phasellus molestie tortor ac quam lobortis finibus eu at odio. Morbi consequat arcu vel leo vehicula, nec iaculis augue volutpat. Ut vitae venenatis nisl. Aliquam sapien orci, sodales in metus eu, sagittis dictum elit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer sem sapien, sodales id aliquet sed, venenatis sed felis.
+Beignets are best when shared. They remind us that good things take time and effort, but the result is always worth it.
 
-Ut consequat tortor sapien, vel fringilla mauris aliquet vitae. In porttitor dignissim felis eget tincidunt. Phasellus augue odio, blandit at augue vel, mollis convallis orci. Duis finibus vel leo eget varius. Aliquam eget magna ut ipsum cursus dapibus vel vitae sapien. Vivamus tincidunt nec ligula vitae condimentum. Nunc id ex bibendum, laoreet elit sed, laoreet enim. Vivamus aliquam vel magna vitae bibendum. Praesent ut placerat nibh, ut blandit dui. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec velit ligula, tincidunt ac consectetur sed, rutrum vitae nibh. Etiam euismod iaculis eros ut tristique. Curabitur finibus lorem sit amet justo varius bibendum.
+## Ingredients
 
-Mauris consectetur placerat neque vel consequat. Pellentesque sem ligula, fermentum rhoncus fringilla sit amet, facilisis at orci. Maecenas nec rhoncus ante. Aliquam quis ornare nisl. Nam molestie finibus lectus, vitae bibendum tellus scelerisque quis. Integer bibendum condimentum augue eu vulputate. Ut vitae nulla non nunc scelerisque fermentum. Integer ultricies tincidunt tortor, in rhoncus dolor laoreet ac.
+- 120 g (1/2 cup) milk, warm
+- 100 g (1/2 cup) active sourdough starter
+- 1 large egg
+- 30 g (2 tbsp) unsalted butter, melted
+- 30 g (2 tbsp) sugar
+- 240 g (2 cups) all-purpose flour
+- 3 g (1/2 tsp) fine sea salt
+- Neutral oil, for frying
+
+**For Finishing**
+{: .mb-0 }
+- Powdered sugar, for dusting
+
+## Instructions
+
+### **1. Mix the Dough**
+In a large bowl, whisk the warm milk, sourdough starter, egg, melted butter, and sugar. Add the flour and salt, mixing until a sticky dough forms. Cover and let rest for 30 minutes.
+
+### **2. Knead & Bulk Ferment**
+Knead the dough on a floured surface until smooth, about 5 minutes. Transfer to an oiled bowl, cover, and let rise overnight (8–12 hours) at room temperature until doubled.
+
+### **3. Shape & Proof**
+Roll the dough to about 1/4 inch thick on a floured surface. Cut into 2-inch squares and place on a parchment-lined tray. Cover and let proof for 1–2 hours until puffy.
+
+### **4. Fry the Beignets**
+Heat oil to 350°F (175°C) (or test oil temperature by adding a tiny bit of doug) in a heavy-bottomed pot. Fry beignets in batches, about 1–2 minutes per side, until golden brown. Drain on paper towels.
+
+### **5. Finish & Serve**
+Dust generously with powdered sugar and enjoy warm. Best eaten fresh, with café au lait à la Café du Monde.
