@@ -5,7 +5,7 @@ date: "2025-02-13"
 tags: recipes, mardi gras, new orleans, beignets, sourdough
 layout: split
 description: Light, airy sourdough beignets with a crisp golden exterior and a subtle tang from natural fermentation.
-featured_image: /images/featured/sourdough-beignets.jpg
+featured_image: /images/mardi-gras-2025/featured/sourdough-beignets.jpg
 category: dessert
 ingredients:
   - 100 g (3/4 cup) bubbly, active sourdough starter

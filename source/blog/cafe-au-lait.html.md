@@ -5,7 +5,7 @@ date: "2025-02-10"
 tags: cafe au lait, recipe, mardi gras, new orleans, lent, coffee
 layout: split
 description: The deep, roasted flavor of chicory balances the richness of warm milk, creating a drink that’s both bold and comforting.
-featured_image: /images/featured/cafe-au-lait.jpg
+featured_image: /images/mardi-gras-2025/featured/cafe-au-lait.jpg
 category: drink
 cuisine: Creole
 ingredients:

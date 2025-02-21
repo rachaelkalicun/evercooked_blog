@@ -5,7 +5,7 @@ date: "2025-02-08"
 tags: king cake, recipe, mardi gras, new orleans, lent
 layout: split
 description: Bake a traditional, sourdough King Cake with a simple brioche dough. Celebrate Mardi Gras with this classic recipe and customize it with your favorite fillings!
-featured_image: "/images/featured/king-cake.jpg"
+featured_image: "/images/mardi-gras-2025/featured/sourdough-king-cake.jpg"
 category: dessert
 ingredients:
   - 160 g (1/2 cup) milk
