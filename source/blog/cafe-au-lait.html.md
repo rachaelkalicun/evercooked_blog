@@ -1,11 +1,13 @@
 ---
 title: Café Au Lait
+on_page_title: The Ritual of New Orleans Café au Lait
 blog: blog
 date: "2025-02-10"
 tags: cafe au lait, recipe, mardi gras, new orleans, lent, coffee
-layout: split
+layout: post
 description: The deep, roasted flavor of chicory balances the richness of warm milk, creating a drink that’s both bold and comforting.
 featured_image: /images/mardi-gras-2025/featured/cafe-au-lait.jpg
+full_image: /images/mardi-gras-2025/cafe-au-lait.jpg
 category: drink
 cuisine: Creole
 ingredients:
@@ -20,8 +22,6 @@ instructions:
   - Heat the milk in a saucepan over medium heat. Stir in sugar if using, dissolving it completely. Just before it reaches a simmer, remove from heat.
   - Pour equal parts coffee and hot milk into a mug. Stir gently and sip slowly.
 ---
-
-# The Ritual of New Orleans Café au Lait
 
 Café au lait in New Orleans is more than coffee with milk—it's tradition in a cup. The deep, roasted flavor of chicory balances the richness of warm milk, creating a drink that’s both bold and comforting. Sipped alongside beignets dusted in powdered sugar, it’s a taste of the city’s French and Creole heritage.
 

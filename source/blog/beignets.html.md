@@ -1,11 +1,12 @@
 ---
 title: Sourdough Beignets
+on_page_title: "Sourdough Beignets: A Classic with Depth"
 blog: blog
 date: "2025-02-13"
 tags: recipes, mardi gras, new orleans, beignets, sourdough
-layout: split
 description: Light, airy sourdough beignets with a crisp golden exterior and a subtle tang from natural fermentation.
 featured_image: /images/mardi-gras-2025/featured/sourdough-beignets.jpg
+full_image: /images/mardi-gras-2025/sourdough-beignets.jpg
 category: dessert
 ingredients:
   - 100 g (3/4 cup) bubbly, active sourdough starter
@@ -26,8 +27,6 @@ instructions:
   - Heat oil in a deep pan to 350°F (175°C). Fry beignets in batches until golden brown, about 1-2 minutes per side.
   - Drain on paper towels and generously dust with powdered sugar. Serve warm.
 ---
-
-# Sourdough Beignets: A Classic with Depth
 
 Beignets are a staple in New Orleans, a deep-fried delight dusted in powdered sugar. They're tied to the city's café culture, best enjoyed with a strong cup of coffee. While typically made with commercial yeast, using a sourdough starter brings depth and a slight tang, balancing the sweetness.
 

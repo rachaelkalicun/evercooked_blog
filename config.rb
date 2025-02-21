@@ -7,7 +7,7 @@ set :relative_links, true
 
 activate :blog do |blog|
   blog.name    = "blog"
-  blog.layout = "blog"
+  blog.layout = "post"
   blog.prefix = "blog"
   blog.sources = "{title}.html"
   blog.permalink = "{title}"
@@ -21,7 +21,7 @@ end
 
 activate :blog do |blog|
   blog.name    = "newsletters"
-  blog.layout = "blog"
+  blog.layout = "post"
   blog.prefix = "newsletters"
   blog.sources = "{title}.html"
   blog.permalink = "{title}"

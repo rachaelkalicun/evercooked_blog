@@ -3,11 +3,11 @@
     <div class="mb-8">
       <h3 class="text-2xl font-normal text-center">Blog Posts</h3>
       <div class="grid gap-2 mt-4 sm:grid-cols-2 lg:grid-cols-4">
-        <% blog('blog').articles[0...4].each do |article| %>
+        <% blog('blog').articles[0...8].each do |article| %>
           <a href="<%= article.url %>" class="p-4 bg-white border border-gray-200 shadow-sm hover:shadow-md transition text-body flex flex-col justify-between hover:text-link">
             <div>
               <img src="<%= article.data.featured_image %>" alt="Blog Post 2" class="mb-4">
-              <h4 class="font-semibold leading-snug"><%= article.title %></h4>
+              <h4 class="font-semibold leading-snug"><%= article.data.on_page_title %></h4>
             </div>
 						<p class="md:hidden mt-2 mb-0 text-link hover:text-linkhover transition">Read more</p>
           </a>
@@ -27,7 +27,7 @@
           <a href="<%= article.url %>" class="p-4 bg-white border border-gray-200 shadow-sm hover:shadow-md transition text-body flex flex-col justify-between">
             <div>
               <img src="<%= article.data.featured_image %>" alt="Blog Post 2" class="mb-4">
-              <h4 class="font-semibold leading-snug"><%= article.title %></h4>
+              <h4 class="font-semibold leading-snug"><%= article.data.on_page_title %></h4>
             </div>
             <p class="md:hidden mt-2 mb-0 text-link hover:text-linkhover transition">Read more</p>
           </a>

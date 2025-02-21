@@ -4,9 +4,9 @@ on_page_title: "The Meditative Art of Making Gumbo: A Rich, Flavorful Tradition"
 blog: blog
 date: "2025-02-17"
 tags: gumbo, recipe, mardi gras, new orleans, cajun, creole
-layout: split
 description: Discover the meditative art of making gumbo with this step-by-step recipe. Create a rich roux and customize your gumbo with both vegetarian and meat options.
 featured_image: /images/mardi-gras-2025/featured/gumbo-with-shrimp.jpg
+full_image: /images/mardi-gras-2025/gumbo-with-shrimp.jpg
 category: recipe
 ingredients:
   - 1/2 cup flour

@@ -1,11 +1,11 @@
 ---
 title: Traditional King Cake Recipe – A Taste of Mardi Gras
-blog: blog
+on_page_title: "Sourdough King Cake: A Tradition to Share and Make Your Own"
 date: "2025-02-08"
 tags: king cake, recipe, mardi gras, new orleans, lent
-layout: split
 description: Bake a traditional, sourdough King Cake with a simple brioche dough. Celebrate Mardi Gras with this classic recipe and customize it with your favorite fillings!
 featured_image: "/images/mardi-gras-2025/featured/sourdough-king-cake.jpg"
+full_image: "/images/mardi-gras-2025/sourdough-king-cake.jpg"
 category: dessert
 ingredients:
   - 160 g (1/2 cup) milk
@@ -37,14 +37,9 @@ instructions:
   - Once cooled, decorate with glaze and colored sugar.
 ---
 
-# Sourdough King Cake: A Tradition to Share and Make Your Own
-{: .mb-0 }
-
 <a href="#sourdough-king-cake-recipe" class="inline-block bg-link text-white py-1 px-2 rounded-sm text-xs hover:bg-opacity-90">
   Jump to Recipe
 </a>
-
-<img src="/images/mardi-gras-2025/king-cake.jpg" alt="Mardi Gras King Cake"/>
 
 King Cake is a celebration of tradition and community. In New Orleans, people eat it from January 6, known as Epiphany. This day celebrates when the three wise men visited baby Jesus. They continue eating it until Mardi Gras. A plastic baby is inside, bringing luck and prosperity to the lucky person.
 

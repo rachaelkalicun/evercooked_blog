@@ -1,11 +1,13 @@
 ---
 title: "Mardi Gras: A Celebration of Culture and Community"
+on_page_title: "Mardi Gras: A Celebration of Culture and Community (on page)"
 blog: blog
 date: "2025-02-11"
 tags: mardi gras, new orleans, holidays, lent, tradition, food, celebration
-layout: split
+layout: post
 description: Mardi Gras is a vibrant celebration of history, culture, and indulgence before Lent, filled with music, parades, and the rich flavors of the region.
-featured_image: "/images/featured/new-orleans-jazz-band.jpg"
+featured_image: "/images/mardi-gras-2025/featured/new-orleans-jazz-band.jpg"
+full_image: "/images/mardi-gras-2025/new-orleans-jazz-band.jpg"
 category: holiday
 ---
 
