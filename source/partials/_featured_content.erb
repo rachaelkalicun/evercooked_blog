@@ -4,7 +4,7 @@
     <p class="mt-1 text-xl font-normal">The latest from Evercooked</p>
   </div>
   <div class="max-w-5xl mx-auto mt-3 grid gap-5 sm:grid-cols-2">
-    <% latest_post = blog('blog').articles.first %>
+    <% latest_post = blog('blog').articles.select(&:published?).first %>
     <a href="<%= latest_post.url %>" class="p-6 bg-[#ffffff] shadow-sm hover:shadow-md transition rounded-md flex flex-col justify-between text-body">
       <div>
         <img src="<%= latest_post.data.featured_image %>" alt="Blog Post 1" class="mb-4">
@@ -14,7 +14,7 @@
       <p class="md:hidden mt-3 mb-0 inline-block text-link font-medium hover:text-linkhover transition">Read more</p>
     </a>
 
-    <% latest_newsletter = blog('newsletters').articles.first %>
+    <% latest_newsletter = blog('newsletters').articles.select(&:published?).first %>
     <a href="<%= latest_newsletter.url %>" class="p-6 bg-[#ffffff] shadow-sm hover:shadow-md transition rounded-md flex flex-col justify-between text-body">
       <div>
         <img src="<%= latest_newsletter.data.featured_image %>" alt="Blog Post 1" class="mb-4">

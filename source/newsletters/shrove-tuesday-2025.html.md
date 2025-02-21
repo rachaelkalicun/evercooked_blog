@@ -1,6 +1,7 @@
 ---
 title: Shrove Tuesday
 on_page_title: Shrove Tuesday
+published: false
 blog: newsletters
 date: "2025-02-13"
 tags: mardi gras, new orleans, holidays, lent
