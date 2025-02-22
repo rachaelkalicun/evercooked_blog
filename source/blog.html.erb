@@ -5,19 +5,26 @@ date: "2025-02-10"
 layout: split
 ---
 
-<main class="grid grid-cols-1 md:grid-cols-2 gap-6">
-  <% blog('blog').articles.select(&:published?).each do |article| %>
-    <div class="flex flex-col h-full">
-      <a href="<%= article.url %>" class="block">
-        <img src="<%= article.data.featured_image %>" alt="<%= article.title %>" class="w-full h-56 object-cover rounded-lg">
-      </a>
-      <a href="<%= article.url %>" class="block my-3 text-xl font-semibold leading-tight hover:underline text-body">
-        <%= article.title %>
-      </a>
-      <%= article.summary %>
-      <div class="mt-auto">
-        <a href="<%= article.url %>" class="text-link hover:text-linkhover inline-block">Read more →</a>
-      </div>
-    </div>
-  <% end %>
-</main>
+<div class="w-full px-2 sm:px-3 py-6 lg:py-4 lg:bg-[#eaeaef] mt-3 lg:pb-0 lg:mt-0">
+	<div class="lg:bg-[#eaeaef] lg:py-3">
+		<div class=" lg:mb-3 lg:rounded-sm">
+			<h1 class="text-2xl md:text-3xl font-medium my-0 alt_font tracking-wide mb-4 text-center">Blog Posts</h1>
+		</div>
+		<div class="grid grid-cols-1 md:grid-cols-2 gap-4 lg:gap-3">
+			<% blog('blog').articles.select(&:published?).each do |article| %>
+				<div class="h-full p-4 bg-white border border-gray-100 shadow-sm hover:shadow-md transition text-body flex flex-col justify-between hover:text-body hover:cursor-pointer">
+					<a href="<%= article.url %>" class="block">
+						<img src="<%= article.data.featured_image %>" alt="<%= article.title %>" class="w-full h-56 object-cover rounded-lg">
+					</a>
+					<a href="<%= article.url %>" class="block my-3 text-xl font-semibold leading-tight hover:no-underline text-body">
+						<%= article.title %>
+					</a>
+					<%= article.summary(150, '...') %>
+					<div class="mt-auto">
+						<a href="<%= article.url %>" class="text-link hover:text-linkhover inline-block">Read more →</a>
+					</div>
+				</div>
+			<% end %>
+		</div>
+	</div>
+</div>
