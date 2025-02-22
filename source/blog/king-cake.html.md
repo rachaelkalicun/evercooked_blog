@@ -7,6 +7,7 @@ description: Bake a traditional, sourdough King Cake with a simple brioche dough
 featured_image: "/images/mardi-gras-2025/featured/sourdough-king-cake.jpg"
 full_image: "/images/mardi-gras-2025/sourdough-king-cake.jpg"
 category: dessert
+jump_to_recipe: true
 ingredients:
   - 160 g (1/2 cup) milk
   - 113 g (1/2 cup) unsalted butter, divided
@@ -37,10 +38,6 @@ instructions:
   - Once cooled, decorate with glaze and colored sugar.
 ---
 
-<a href="#sourdough-king-cake-recipe" class="inline-block bg-link text-white py-1 px-2 rounded-sm text-xs hover:bg-opacity-90">
-  Jump to Recipe
-</a>
-
 King Cake is a celebration of tradition and community. In New Orleans, people eat it from January 6, known as Epiphany. This day celebrates when the three wise men visited baby Jesus. They continue eating it until Mardi Gras. A plastic baby is inside, bringing luck and prosperity to the lucky person.
 
 Today, there are many variations, like cinnamon-sugar or cream cheese fillings. I kept this one traditional. It's a simple brioche dough, decorated with the symbolic colors of purple, green, and gold. Purple stands for justice, green represents faith, and gold signifies power.
@@ -51,7 +48,7 @@ Make it your own. While I kept it simple, feel free to add fillings like cinnamo
 
 Baking is about enjoying the process. Your dough might not rise as expected, or the glaze could be messy. That’s all part of it. Every time you bake, you gain skills and confidence. You also create traditions that last with you and your loved ones.
 
-<h2 id="sourdough-king-cake-recipe">Ingredients</h2>
+<h2 id="recipe-target">Ingredients</h2>
 
 **For the Dough**
 {: .mb-0 }
