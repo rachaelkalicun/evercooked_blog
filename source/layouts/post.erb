@@ -1,12 +1,12 @@
 <% wrap_layout :split do %>
-  <article>
-		<h1><%= current_page.data.on_page_title %></h1>
+  <article class="px-2 sm:px-3 py-6 lg:py-0">
+		<img src="<%= current_page.data.full_image %>" alt="<%= current_page.title %>" class="w-full">
+		<h1 class="alt_font mt-3"><%= current_page.data.on_page_title %></h1>
 		<% if current_page.data.jump_to_recipe == true %>
 			<a href="#recipe-target" class="inline-block bg-link text-white py-1 px-2 rounded-sm text-xs hover:bg-opacity-90">
 				Jump to Recipe
 			</a>
 		<% end %>
-		<img src="<%= current_page.data.full_image %>" alt="<%= current_page.title %>" class="w-full">
     <%= yield %>
   </article>
 <% end %>

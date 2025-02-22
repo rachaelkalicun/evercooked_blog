@@ -4,7 +4,7 @@
 
 :root {
 	--body-background: #fff;
-	--body-color: #171223;
+	--body-color: #333333;
 	--heading-color: #5960B2;
 	--action-color: #5960B2;
 }
@@ -102,13 +102,13 @@ hr {
 
 h1,
 .h1 {
-	@apply text-xl font-semibold mb-4 mt-0;
+	@apply text-xl font-medium mb-4 mt-0;
 
 }
 
 h2,
 .h2 {
-	@apply text-lg font-semibold mb-2 mt-6;
+	@apply text-lg font-medium mb-2 mt-6;
 }
 
 p,

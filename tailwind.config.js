@@ -12,7 +12,7 @@ module.exports = {
         backgroundlight: "#e1e1e1",
         purple: "#C5C5D2",
 				lightpurple: "#eaeaef",
-        body: "#171223",
+        body: "#333",
       },
 			fontFamily: {
         serif: ["EB Garamond", "serif"],
