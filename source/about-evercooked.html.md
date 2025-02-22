@@ -3,9 +3,14 @@ title: Evercooked description
 description: Evercooked description
 date: "2025-02-10"
 ---
+<div class="max-w-4xl mx-auto text-center mt-10">
+	<h2 class="text-2xl md:text-4xl font-normal my-0 alt_font tracking-wide mb-4">About Evercooked</h2>
+</div>
 
-Welcome to Evercooked! I'm Rachael Kalicun, and I'm celebrating food as the bridge that connects generations, cultures, and experiences. Cooking is an act of love that honors the past, strengthens bonds, and creates memories that last long after the meal is over.
+<div class="max-w-3xl my-0 mx-auto mb-10 px-3">
+	<p>Welcome to Evercooked! I'm Rachael Kalicun, and I'm celebrating food as the bridge that connects generations, cultures, and experiences. Cooking is an act of love that honors the past, strengthens bonds, and creates memories that last long after the meal is over.</p>
 
-Together, we'll explore meaningful dishes, traditions, and the cultural significance behind what we cook. As we grow in the kitchen, we'll deepen our connection to the meals we create and the stories they carry.
+	<p>Together, we'll explore meaningful dishes, traditions, and the cultural significance behind what we cook. As we grow in the kitchen, we'll deepen our connection to the meals we create and the stories they carry.</p>
 
-Let's honor traditions, create new ones, and build lasting connections. Grab a seat at the table, and let's cook together.
+	<p>Let's honor traditions, create new ones, and build lasting connections. Grab a seat at the table, and let's cook together.</p>
+</div>
