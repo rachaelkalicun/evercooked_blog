@@ -18,7 +18,7 @@
 <meta property="og:title" content="<%= current_page.data.title || "Evercooked" %>" />
 <meta property="og:description" content="<%= current_page.data.description %>" />
 <meta property="og:image" content="<%= "#{config[:url]}#{current_page.data.full_image}" %>" />
-
+<link type="application/atom+xml" rel="alternate" href="/feed.xml" title="Evercooked posts and newsletters" />
 
 <% if current_page.url == "/blog/" || current_page.url == "/newsletters/" %>
 	<link rel="canonical" href="<%= "#{config[:url]}#{current_page.url}" %>" />
