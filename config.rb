@@ -3,7 +3,7 @@
 
 activate :livereload, port: '4567'
 set :relative_links, true
-
+config[:url] = "https://www.evercooked.com"
 
 activate :blog do |blog|
   blog.name    = "blog"

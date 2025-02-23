@@ -12,12 +12,35 @@
 <meta charset="utf-8">
 <link rel="icon" type="image/png" href="/images/favicon.png">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
-<meta name="viewport"
-			content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<!-- Use the title from a page's frontmatter if it has one -->
-<title><%= current_page.data.title || "Middleman" %></title>
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title><%= current_page.data.title || "Evercooked" %></title>
+<meta name="description" content="<%= current_page.data.description %>" />
+<meta property="og:title" content="<%= current_page.data.title || "Evercooked" %>" />
+<meta property="og:description" content="<%= current_page.data.description %>" />
+<meta property="og:image" content="<%= "#{config[:url]}#{current_page.data.full_image}" %>" />
+<meta property="og:url" content="<%= "#{config[:url]}#{current_page.url}" %>" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="<%= current_page.data.title || "Evercooked" %>" />
+<meta name="twitter:description" content="<%= current_page.data.description %>" />
+<meta name="twitter:image" content="<%= "#{config[:url]}#{current_page.data.full_image}" %>" />
+<link rel="canonical" href="<%= "#{config[:url]}#{current_page.url}" %>" />
+<meta property="og:type" content="website" />
+<link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch.png">
+
+<% if current_page.url == "/" %>
+	<script type="application/ld+json">
+	{
+		"@context": "https://schema.org",
+		"@type": "WebSite",
+		"name": "Evercooked",
+		"url": "https://evercooked.com"
+	}
+	</script>
+<% end %>
+
+
 <%= stylesheet_link_tag "site" %>
 <%= javascript_include_tag "site" %>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">
+<link  href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">
