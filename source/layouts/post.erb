@@ -1,12 +1,12 @@
 <% wrap_layout :split do %>
   <article class="px-2 sm:px-3 py-6 md:py-0">
-		<img src="<%= current_page.data.full_image %>" alt="<%= current_page.title %>" class="w-full">
+		<h1 class="alt_font  text-center"><%= current_page.data.on_page_title %></h1>
 		<% if current_page.data.newsletter_issue %>
-			<p class="text-xs mt-3">Newsletter Issue <%= current_page.data.newsletter_issue %> - <%= Date.parse(current_page.data.date).strftime("%B %d, %Y") if current_page.data.date %></p>
+			<p class="text-xs -mt-3 text-center">Newsletter Issue <%= current_page.data.newsletter_issue %> - <%= Date.parse(current_page.data.date).strftime("%B %d, %Y") if current_page.data.date %></p>
 		<% end %>
-		<h1 class="alt_font mt-4"><%= current_page.data.on_page_title %></h1>
+		<img src="<%= current_page.data.full_image %>" alt="<%= current_page.title %>" class="w-full mb-4">
 		<% if current_page.data.jump_to_recipe == true %>
-			<a href="#recipe-target" class="inline-block bg-link text-white py-1 px-2 rounded-sm text-xs hover:bg-opacity-90">
+			<a href="#recipe-target" class="block text-center mb-2 text-sm">
 				Jump to Recipe
 			</a>
 		<% end %>

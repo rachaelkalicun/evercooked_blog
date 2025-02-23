@@ -6,7 +6,7 @@ date: "2025-02-11"
 tags: mardi gras, new orleans, holidays, lent
 layout: post
 newsletter_issue: 1
-description: Mardi Gras is blah, blah blah.
+description: Explore the self-made Mardi Gras traditions I’ve created over the years to mark the day before Lent with a festive and meaningful meal. Learn about the traditions of gumbo, beignets, and more.
 featured_image: "/images/mardi-gras-2025/featured/gumbo-vegetarian.jpg"
 full_image: "/images/mardi-gras-2025/gumbo-vegetarian.jpg"
 category: hoiday

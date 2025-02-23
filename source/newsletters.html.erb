@@ -1,8 +1,9 @@
 ---
-title: Newsletters
-description: Evercooked description
-date: "2025-02-10"
+title: "Evercooked Newsletters: Recipes, Stories, and Traditions"
+description: Explore a collection of heartfelt stories, vibrant recipes, and rich traditions shared through our weekly newsletters. Join the Evercooked community and discover the memories behind the dishes that bring us together.
 layout: split
+full_image: /images/og.png
+apple_touch_image: /images/apple-touch.png
 ---
 
 <div class="w-full px-2 sm:px-3 py-6 lg:py-4 lg:bg-[#eaeaef] mt-3 lg:pb-0 lg:mt-0">
@@ -13,15 +14,15 @@ layout: split
 		<div class="grid grid-cols-1 md:grid-cols-2 gap-4 lg:gap-3">
 			<% blog('newsletters').articles.select(&:published?).each do |article| %>
 				<div class="h-full p-4 bg-white border border-gray-100 shadow-sm hover:shadow-md transition text-body flex flex-col justify-between hover:text-body hover:cursor-pointer">
-					<a href="<%= article.url %>" class="block">
+					<a href="<%= article.url.chomp('/') %>" class="block">
 						<img src="<%= article.data.featured_image %>" alt="<%= article.title %>" class="w-full h-56 object-cover rounded-lg">
 					</a>
-					<a href="<%= article.url %>" class="block my-3 text-xl font-semibold leading-tight hover:no-underline text-body">
+					<a href="<%= article.url.chomp('/') %>" class="block my-3 text-xl font-semibold leading-tight hover:no-underline text-body">
 						<%= article.title %>
 					</a>
 					<%= article.summary(150, '...') %>
 					<div class="mt-auto">
-						<a href="<%= article.url %>" class="text-link hover:text-linkhover inline-block">Read more →</a>
+						<a href="<%= article.url.chomp('/') %>" class="text-link hover:text-linkhover inline-block">Read more →</a>
 					</div>
 				</div>
 			<% end %>

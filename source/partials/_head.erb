@@ -18,12 +18,20 @@
 <meta property="og:title" content="<%= current_page.data.title || "Evercooked" %>" />
 <meta property="og:description" content="<%= current_page.data.description %>" />
 <meta property="og:image" content="<%= "#{config[:url]}#{current_page.data.full_image}" %>" />
-<meta property="og:url" content="<%= "#{config[:url]}#{current_page.url}" %>" />
+
+
+<% if current_page.url == "/blog/" || current_page.url == "/newsletters/" %>
+	<link rel="canonical" href="<%= "#{config[:url]}#{current_page.url}" %>" />
+	<meta property="og:url" content="<%= "#{config[:url]}#{current_page.url}" %>" />
+<% else %>
+	<link rel="canonical" href="<%= "#{config[:url]}#{current_page.url.chomp('/')}" %>" />
+	<meta property="og:url" content="<%= "#{config[:url]}#{current_page.url.chomp('/')}" %>" />
+<% end %>
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:title" content="<%= current_page.data.title || "Evercooked" %>" />
 <meta name="twitter:description" content="<%= current_page.data.description %>" />
 <meta name="twitter:image" content="<%= "#{config[:url]}#{current_page.data.full_image}" %>" />
-<link rel="canonical" href="<%= "#{config[:url]}#{current_page.url}" %>" />
+
 <meta property="og:type" content="website" />
 <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch.png">
 

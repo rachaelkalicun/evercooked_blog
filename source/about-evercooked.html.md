@@ -1,7 +1,9 @@
 ---
-title: Evercooked description
-description: Evercooked description
+title: "Evercooked: Honoring Food, Traditions, and Legacy"
+description: Join Rachael Kalicun on a journey where food connects us to our past, celebrates our heritage, and creates new traditions. Every dish tells a story. Let’s cook with heart, share memories, and honor the legacies that shape us.
 date: "2025-02-10"
+full_image: /images/og.png
+apple_touch_image: /images/apple-touch.png
 ---
 <div class="max-w-4xl mx-auto text-center mt-10">
 	<h2 class="text-2xl md:text-4xl font-normal my-0 alt_font tracking-wide mb-4">About Evercooked</h2>
