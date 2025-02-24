@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'builder', '~> 3.3.0'
-gem 'middleman', '~> 4.5'
+gem 'middleman', git: "https://github.com/rachaelkalicun/middleman.git"
 gem 'middleman-autoprefixer', '~> 3.0'
 gem "middleman-blog", "~> 4.0.3"
 gem 'middleman-livereload', "~> 3.4.7"
