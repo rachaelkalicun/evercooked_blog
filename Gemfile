@@ -1,7 +1,8 @@
 source 'https://rubygems.org'
 
 gem 'builder', '~> 3.3.0'
-gem 'middleman', git: "https://github.com/rachaelkalicun/middleman.git"
+gem 'concurrent-ruby', '1.3.4'
+gem 'middleman'
 gem 'middleman-autoprefixer', '~> 3.0'
 gem "middleman-blog", "~> 4.0.3"
 gem 'middleman-livereload', "~> 3.4.7"
