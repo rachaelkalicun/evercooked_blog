@@ -8,32 +8,7 @@
 		Recipes, stories, and traditions each week
 	</p>
 	<iframe id="signup-sidebar" src="https://evercooked.substack.com/embed" width="100%" height="150" frameborder="0" scrolling="no"></iframe>
+	<p id="signup-fallback" class="mt-4 text-sm">
+		Can't see the signup form? <br><a href="https://evercooked.substack.com/" target="_blank" class="text-[#5960B2] font-semibold">Click here to subscribe</a>.
+	</p>
 </div>
-<p id="adblock-warning-sidebar" class="hidden text-accent font-semibold text-lg text-center">
-	Please disable your ad blocker to join our community!
-</p>
-
-<script>
-  function isIframeHiddenSidebar() {
-    const iframe = document.getElementById("signup-sidebar");
-    if (!iframe) return true;
-    return iframe.offsetParent === null;
-  }
-
-  function toggleWarningSidebar() {
-    const warning = document.getElementById("adblock-warning-sidebar");
-    if (isIframeHiddenSidebar()) {
-      warning.classList.remove("hidden");
-    } else {
-      warning.classList.add("hidden");
-    }
-  }
-
-  document.addEventListener("DOMContentLoaded", function () {
-    toggleWarningSidebar();
-  });
-
-  window.addEventListener("resize", function () {
-    toggleWarningSidebar();
-  });
-</script>

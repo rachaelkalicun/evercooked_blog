@@ -25,36 +25,10 @@
 					<% end %>
 				</h4>
 				<iframe class="w-full" id="signup-main" src="https://evercooked.substack.com/embed" frameborder="0" scrolling="no"></iframe>
+				<p id="signup-fallback" class="mt-4 text-sm">
+					Can't see the signup form? <br><a href="https://evercooked.substack.com/" target="_blank" class="text-[#5960B2] font-semibold">Click here to subscribe</a>.
+				</p>
 			</div>
 		</div>
-		<p id="adblock-warning-main" class="hidden text-[#d97706] font-semibold text-lg md:text-xl mt-4">
-			Please disable your ad blocker to join our community!
-		</p>
 	</div>
 </section>
-
-
-<script>
-  function isIframeHiddenMain() {
-    const iframe = document.getElementById("signup-main");
-    if (!iframe) return true;
-    return iframe.offsetParent === null;
-  }
-
-  function toggleWarningMain() {
-    const warning = document.getElementById("adblock-warning-main");
-    if (isIframeHiddenMain()) {
-      warning.classList.remove("hidden");
-    } else {
-      warning.classList.add("hidden");
-    }
-  }
-
-  document.addEventListener("DOMContentLoaded", function () {
-    toggleWarningMain();
-  });
-
-  window.addEventListener("resize", function () {
-    toggleWarningMain();
-  });
-</script>
