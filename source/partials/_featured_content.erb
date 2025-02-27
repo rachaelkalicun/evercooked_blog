@@ -5,7 +5,11 @@
 			<% article = blog('blog').articles.select(&:published?).first %>
 			<a href="<%= article.url.chomp('/') %>" class="p-4 bg-white border border-gray-100 shadow-sm hover:shadow-md transition text-body flex flex-col justify-between hover:text-body hover:cursor-pointer">
 				<div>
+
 					<img src="<%= article.data.featured_image %>" alt="Blog Post 1" class="mb-4">
+					<div class="mb-2 text-xs font-semibold text-graypurple uppercase tracking-wider">
+						What's Cooking
+					</div>
 					<h3 class="font-semibold leading-snug"><%= article.data.on_page_title %></h3>
 					<div class="hidden md:block mt-2 font-normal"><%= article.summary %></div>
 				</div>
@@ -16,6 +20,9 @@
 			<a href="<%= article.url.chomp('/') %>" class="p-4 bg-white border border-gray-100 shadow-sm hover:shadow-md transition text-body flex flex-col justify-between hover:text-body hover:cursor-pointer">
 				<div>
 					<img src="<%= article.data.featured_image %>" alt="Blog Post 1" class="mb-4">
+					<div class="mb-2 text-xs font-semibold text-graypurple uppercase tracking-wider">
+						Notes from the Table
+					</div>
 					<h3 class="font-semibold leading-snug"><%= article.data.on_page_title %></h3>
 					<div class="hidden md:block mt-2 font-normal"><%= article.summary %></div>
 				</div>

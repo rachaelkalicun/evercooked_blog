@@ -8,8 +8,9 @@ apple_touch_image: /images/apple-touch.png
 
 <div class="w-full px-2 sm:px-3 py-6 lg:py-4 lg:bg-[#eaeaef] mt-3 lg:pb-0 lg:mt-0">
 	<div class="lg:bg-[#eaeaef] lg:py-3">
-		<div class=" lg:mb-3 lg:rounded-sm">
-			<h1 class="text-2xl md:text-3xl font-medium my-0 alt_font tracking-wide mb-4 text-center">Newsletters</h1>
+		<div class=" lg:mb-3 lg:rounded-sm text-center">
+			<h1 class="text-2xl md:text-4xl font-normal my-0 alt_font tracking-wide mb-0">Notes from the Table</h1>
+			<h2 class="text-base md:text-lg mb-2 mt-0">The Evercooked Newsletter</h2>
 		</div>
 		<div class="grid grid-cols-1 md:grid-cols-2 gap-4 lg:gap-3">
 			<% blog('newsletters').articles.select(&:published?).each do |article| %>

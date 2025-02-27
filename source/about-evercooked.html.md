@@ -2,6 +2,7 @@
 title: "Evercooked: Honoring Food, Traditions, and Legacy"
 description: Join Rachael Kalicun on a journey where food connects us to our past, celebrates our heritage, and creates new traditions. Every dish tells a story. Let’s cook with heart, share memories, and honor the legacies that shape us.
 date: "2025-02-10"
+layout: split
 full_image: /images/og.png
 apple_touch_image: /images/apple-touch.png
 ---
