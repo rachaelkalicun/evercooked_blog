@@ -1,6 +1,6 @@
 ---
-title: "Traditional King Cake Recipe: A Taste of Mardi Gras"
-on_page_title: "Sourdough King Cake: A Tradition to Share and Make Your Own"
+title: "Traditional Sourdough King Cake Recipe: A Taste of Mardi Gras"
+on_page_title: "Sourdough King Cake Recipe: A Celebration of Community and Tradition"
 date: "2025-02-08"
 tags: king cake, recipe, mardi gras, new orleans, lent
 description: Bake a traditional, sourdough King Cake with a simple brioche dough. Celebrate Mardi Gras with this classic recipe and customize it with your favorite fillings!
@@ -10,13 +10,13 @@ category: dessert
 jump_to_recipe: true
 ingredients:
   - 160 g (1/2 cup) milk
-  - 113 g (1/2 cup) unsalted butter, divided
+  - 113 g (1/2 cup) unsalted butter
   - 1 large egg + 2 large egg yolks
   - 100 g (3/4 cup) bubbly, active sourdough starter
   - 24 g (2 tbsp) sugar
   - 300 g (21/2 cups) all-purpose flour
   - 3 g (1/2 tsp) fine sea salt
-  - Oil, for coating
+  - Oil, for the bowl
   - 28 g (2 tbsp) butter, melted (for brushing)
   - Colored sugar or icing for decoration (optional)
   - 120 g (1 cup) powdered sugar
@@ -27,18 +27,18 @@ ingredients:
 cuisine: Cajun, Creole
 
 instructions:
-  - Feed your starter a few days before baking to ensure it’s bubbly and active. Store at room temperature until ready.
+  - Feed your sourdough starter the day before baking to make sure it’s bubbly and active.
   - Warm the milk and 85 g (6 tbsp) butter in a small saucepan or microwave. Let cool slightly.
-  - Add the egg, egg yolks, sourdough starter, and sugar to the bowl of a stand mixer. Mix to combine using the paddle attachment. Slowly pour in the warm milk mixture. Add flour and salt, mixing  until a rough dough forms. Cover with a damp towel and rest for 30 minutes.
+  - Add the egg, egg yolks, sourdough starter, and sugar to the bowl of a stand mixer. Mix to combine using the paddle attachment. Slowly pour in the warm milk mixture. Add flour and salt, mixing until a rough dough forms. Cover with a damp towel and rest for 30 minutes.
   - Switch to the dough hook and knead on medium-low speed for 6 to 8 minutes. Adjust with flour if too sticky. The dough should be soft, smooth, and slightly tacky.
   - Transfer the dough to a lightly oiled bowl. Cover with a damp towel and let rise at room temperature for 8 to 10 hours (or overnight).
-  - Preheat your oven to 375°F (190°C). Line a sheet pan with parchment paper or a silicone mat. Remove the dough onto a lightly oiled surface, rest for 5–10 minutes. Roll into a 15 x 10-inch  rectangle. Roll it into a tight log, seam side down, and shape into a ring. Let rest for 10–15 minutes.
+  - Preheat your oven to 375°F (190°C). Line a sheet pan with parchment paper or a silicone mat. Dump the dough onto a lightly floured surface. Let it rest for 5–10 minutes. Roll into a 15 x 10-inch  rectangle. Roll it into a tight log, seam side down, and shape into a ring. Let rest for 10–15 minutes.
   - Brush with melted butter. Cover and let rise until puffy, about 1 hour.
   - "Bake at 375°F (190°C) for 20–25 minutes, then reduce to 350°F (180°C) for 10–15 more minutes. The cake should be golden brown and hollow-sounding when tapped."
   - Once cooled, decorate with glaze and colored sugar.
 ---
 
-King Cake is a celebration of tradition and community. In New Orleans, people eat it from January 6, known as Epiphany. This day celebrates when the three wise men visited baby Jesus. They continue eating it until Mardi Gras. A plastic baby is inside, bringing luck and prosperity to the lucky person.
+King Cake is a celebration of tradition and community. In New Orleans, people eat it from January 6, known as Epiphany. This day celebrates when the three wise men visited baby Jesus. They continue eating it until Mardi Gras. A plastic baby is hidden inside. The person who finds it is said to be blessed with luck and prosperity.
 
 Today, there are many variations, like cinnamon-sugar or cream cheese fillings. I kept this one traditional. It's a simple brioche dough, decorated with the symbolic colors of purple, green, and gold. Purple stands for justice, green represents faith, and gold signifies power.
 
@@ -53,13 +53,13 @@ Baking is about enjoying the process. Your dough might not rise as expected, or 
 **For the Dough**
 {: .mb-0 }
 - 160 g (1/2 cup) milk
-- 113 g (1/2 cup) unsalted butter, divided
+- 113 g (1/2 cup) unsalted butter
 - 1 large egg + 2 large egg yolks
 - 100 g (¾ cup) bubbly, active sourdough starter
 - 24 g (2 tbsp) sugar
 - 300 g (21/2 cups) all-purpose flour
 - 3 g (1/2 tsp) fine sea salt
-- Oil, for coating
+- Oil, for the bowl
 
 **To Finish**
 {: .mb-0 }
@@ -80,7 +80,7 @@ Baking is about enjoying the process. Your dough might not rise as expected, or 
 ## Instructions
 
 ### **1. Feed Your Starter**
-A few days before baking, feed your starter to ensure it’s bubbly and active. Store it at room temperature until ready to use.
+Feed your sourdough starter the day before baking to make sure it’s bubbly and active.
 
 ### **2. Make the Dough**
 Warm the milk and 85 g (6 tbsp) of butter in a small saucepan or microwave. Let it cool slightly.
@@ -96,10 +96,10 @@ Transfer the dough to a lightly oiled bowl. Cover with a damp towel and let rise
 ### **5. Shape the Dough**
 Preheat your oven to 375°F (190°C). Line a sheet pan with parchment paper or a silicone baking mat.
 
-Gently remove the dough onto a lightly oiled surface and let it rest for 5 to 10 minutes. Roll the dough into a large rectangle, about 15 x 10 inches (38 x 25 cm). Roll it into a tight log, seam side down. Transfer to your prepared sheet pan, shaping it into a ring. Let it rest for 10 to 15 minutes to firm up.
+Dump the dough onto a lightly floured surface. Let it rest for 5–10 minutes. Roll the dough into a large rectangle, about 15 x 10 inches (38 x 25 cm). Roll it into a tight log, seam side down. Transfer to your prepared sheet pan, shaping it into a ring. Let it rest for 10 to 15 minutes to firm up.
 
 ### **6. Second Rise**
-Brush the surface and sides of the dough with melted butter. Cover and let rest until noticeably puffy, about 1 hour.
+Brush the surface and sides of the dough with melted butter. Cover and let rest until puffy, about 1 hour.
 
 ### **7. Bake the Brioche**
 Place the cake in the preheated oven and bake for 20 to 25 minutes, until golden brown. Reduce the heat to 350°F (180°C) and continue baking for another 10 to 15 minutes. The cake should be golden brown and hollow-sounding when tapped.
