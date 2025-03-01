@@ -3,6 +3,7 @@ title: Food, Tradition, and the Pre-Lenten Table
 on_page_title: Food, Tradition, and the Pre-Lenten Table (on page)
 blog: blog
 date: "2025-02-10"
+published: false
 tags: lent, recipe, mardi gras, shrove tuesday, king cake, pancakes, food traditions
 layout: post
 description: How Mardi Gras and Shrove Tuesday connect food, history, and ritual

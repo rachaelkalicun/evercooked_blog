@@ -1,49 +1,47 @@
 ---
-title: Café Au Lait
-on_page_title: The Ritual of New Orleans Café au Lait
+title: "New Orleans Café au Lait Recipe: A Tradition of Chicory and Coffee"
+on_page_title: "The Heart of New Orleans: Café au Lait and Chicory"
 blog: blog
 date: "2025-02-10"
 tags: cafe au lait, recipe, mardi gras, new orleans, lent, coffee
 layout: post
-description: The deep, roasted flavor of chicory balances the richness of warm milk, creating a drink that’s both bold and comforting.
+description: Discover the rich history and flavor of New Orleans café au lait. This recipe blends coffee and roasted chicory, creating a comforting drink with a deep cultural legacy. Perfect for enjoying with beignets or on its own.
 featured_image: /images/mardi-gras-2025/featured/cafe-au-lait.jpg
 full_image: /images/mardi-gras-2025/cafe-au-lait.jpg
 category: drink
 cuisine: Creole
 ingredients:
-  - 4 tbsp coarsely ground coffee
-  - 1 tbsp roasted chicory
+  - 3 tbsp coarsely ground coffee
+  - 3 tbsp roasted chicory
   - 2 cups water
   - 1 cup whole milk
-  - 1–2 tsp sugar (optional)
+  - 1–2 tbsp sugar (optional)
 instructions:
   - Mix the ground coffee and chicory in a French press.
-  - Heat the water just below boiling and pour it over the grounds. Stir gently and steep for 4 minutes before pressing.
+  - Boil the water and pour it over the grounds. Stir gently and steep for 4 minutes before pressing.
   - Heat the milk in a saucepan over medium heat. Stir in sugar if using, dissolving it completely. Just before it reaches a simmer, remove from heat.
-  - Pour equal parts coffee and hot milk into a mug. Stir gently and sip slowly.
+  - Pour equal parts coffee and hot milk into a mug or small bowl. Stir gently, sip slowly, and dip your beignets if desired.
 ---
 
-Café au lait in New Orleans is more than coffee with milk—it's tradition in a cup. The deep, roasted flavor of chicory balances the richness of warm milk, creating a drink that’s both bold and comforting. Sipped alongside beignets dusted in powdered sugar, it’s a taste of the city’s French and Creole heritage.
+Café au lait in New Orleans is more than just coffee with milk. It’s a tradition. During the Civil War, the French Creole community in New Orleans began adding chicory to coffee when it was in short supply, stretching the coffee and making it last longer. Over time, this became a part of the city’s coffee culture, especially in places like Café du Monde, where it’s still added.
 
-Making it at home is an exercise in simplicity and rhythm. The steps are few, but each plays a role in creating that signature balance of strength and smoothness.
-
-Café au lait is best enjoyed unrushed. Whether in a quiet morning moment or shared with company, it’s a small ritual that carries the warmth of New Orleans with every cup.
+For my own version of this tradition, I use half coffee and half roasted chicory. I also serve it in a bowl like in France.
 
 ## Ingredients
 
-- 4 tbsp coarsely ground coffee
-- 1 tbsp roasted chicory
+- 3 tbsp coarsely ground coffee
+- 3 tbsp roasted chicory
 - 2 cups water
 - 1 cup whole milk
-- 1–2 tsp sugar (optional)
+- 1–2 tbsp sugar (optional)
 
 ## Instructions
 
 ### **1. Brew the Coffee**
-Mix the ground coffee and chicory in a French press. Heat the water just below boiling and pour it over the grounds. Stir gently and steep for 4 minutes before pressing.
+Mix the ground coffee and chicory in a French press. Boil the water and pour it over the grounds. Stir gently and steep for 4 minutes before pressing.
 
 ### **2. Warm the Milk**
 Heat the milk in a saucepan over medium heat. Stir in sugar if using, dissolving it completely. Just before it reaches a simmer, remove from heat.
 
 ### **3. Combine & Serve**
-Pour equal parts coffee and hot milk into a mug. Stir gently and sip slowly.
+Pour equal parts coffee and hot milk into a mug or small bowl. Stir gently, sip slowly, and dip your beignets if desired.

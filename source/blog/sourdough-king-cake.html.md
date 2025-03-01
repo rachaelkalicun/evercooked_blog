@@ -1,5 +1,5 @@
 ---
-title: Traditional King Cake Recipe – A Taste of Mardi Gras
+title: "Traditional King Cake Recipe: A Taste of Mardi Gras"
 on_page_title: "Sourdough King Cake: A Tradition to Share and Make Your Own"
 date: "2025-02-08"
 tags: king cake, recipe, mardi gras, new orleans, lent
@@ -12,7 +12,7 @@ ingredients:
   - 160 g (1/2 cup) milk
   - 113 g (1/2 cup) unsalted butter, divided
   - 1 large egg + 2 large egg yolks
-  - 100 g (¾ cup) bubbly, active sourdough starter
+  - 100 g (3/4 cup) bubbly, active sourdough starter
   - 24 g (2 tbsp) sugar
   - 300 g (21/2 cups) all-purpose flour
   - 3 g (1/2 tsp) fine sea salt

@@ -1,5 +1,5 @@
 ---
-title: Sourdough Beignets
+title: "Sourdough Beignets: A Classic with Depth"
 on_page_title: "Sourdough Beignets: A Classic with Depth"
 blog: blog
 date: "2025-02-13"

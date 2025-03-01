@@ -35,8 +35,11 @@ ol {
 
 a {
 	color: var(--action-color);
-	font-weight: 500;
 	text-decoration-color: #4C54A1;
+}
+
+.post-wrapper a {
+	text-decoration: underline;
 }
 
 h1 {

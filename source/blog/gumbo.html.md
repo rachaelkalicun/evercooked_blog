@@ -1,6 +1,6 @@
 ---
 title: "Best Gumbo Recipe: How to Make Vegetarian or Meat Gumbo"
-on_page_title: "The Meditative Art of Making Gumbo: A Rich, Flavorful Tradition"
+on_page_title: "Gumbo: Stirring Up Tradition with a Perfect Roux"
 blog: blog
 date: "2025-02-17"
 tags: gumbo, recipe, mardi gras, new orleans, cajun, creole
