@@ -9,14 +9,14 @@ featured_image: /images/mardi-gras-2025/featured/sourdough-beignets.jpg
 full_image: /images/mardi-gras-2025/sourdough-beignets.jpg
 category: dessert
 ingredients:
-	- 120 g (1/2 cup) warm milk
-	- 100 g (1/2 cup) active sourdough starter
-	- 1 large egg
-	- 30 g (2 tbsp) unsalted butter, melted
-	- 30 g (2 tbsp) sugar
-	- 240 g (2 cups) all-purpose flour
-	- 3 g (1/2 tsp) salt
-	- Neutral oil, for frying
+  - 120 g (1/2 cup) warm milk
+  - 100 g (1/2 cup) active sourdough starter
+  - 1 large egg
+  - 30 g (2 tbsp) unsalted butter, melted
+  - 30 g (2 tbsp) sugar
+  - 240 g (2 cups) all-purpose flour
+  - 3 g (1/2 tsp) salt
+  - Neutral oil, for frying
   - Oil, for frying
   - Powdered sugar, for dusting
 cuisine: New Orleans
