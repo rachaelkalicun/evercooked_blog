@@ -38,6 +38,15 @@ a {
 	text-decoration-color: #4C54A1;
 }
 
+.post-wrapper h3 {
+	@apply text-lg;
+}
+
+.post-wrapper h3,
+.post-wrapper h4 {
+	@apply font-medium mb-2 mt-6;
+}
+
 .post-wrapper a {
 	text-decoration: underline;
 }

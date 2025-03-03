@@ -2,7 +2,7 @@
 title: "Pre-Lenten Traditions: Mardi Gras & Shrove Tuesday Celebrations and Self-Made Traditions"
 on_page_title: "Celebrating Mardi Gras & Shrove Tuesday: How Self-Made Traditions Strengthen Bonds"
 blog: newsletters
-date: "2025-03-01"
+date: "2025-03-03"
 tags: mardi gras, new orleans, holidays, lent
 layout: post
 newsletter_issue: 1
@@ -76,8 +76,3 @@ Evercooked isn’t just about food. It’s about the connections we create when 
 As we celebrate Mardi Gras and Shrove Tuesday, remember that food bridges generations, cultures, and histories. It holds stories. It carries legacies.
 
 Keep cooking, keep sharing, and keep passing your traditions forward.
-
-Warmly,
-
-Rachael Kalicun<br>
-Creator of Evercooked
