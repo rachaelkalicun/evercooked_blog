@@ -24,7 +24,8 @@ instructions:
 ---
 
 Café au lait in New Orleans is more than just coffee with milk. It’s a tradition. During the Civil War, the French Creole community in New Orleans began adding chicory to coffee when it was in short supply, stretching the coffee and making it last longer. Over time, this became a part of the city’s coffee culture, especially in places like Café du Monde, where it’s still added.
-For my own version of this tradition, I use half coffee and half roasted chicory. [Here is the chicory I buy from Amazon.](https://www.amazon.com/dp/B071ZTFGFT){:target="_blank"} I also serve it in a bowl like in France.
+
+For my own version, I use half coffee and half roasted chicory. I serve it in a bowl, as they do in France. [Here is the chicory I buy from Amazon](https://www.amazon.com/dp/B071ZTFGFT){:target="_blank"}.
 
 ## Ingredients
 

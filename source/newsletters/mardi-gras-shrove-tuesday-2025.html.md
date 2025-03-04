@@ -26,7 +26,7 @@ Each year, my Mardi Gras ritual helps shake off the post-Christmas blues. The so
 
 ![Gumbo with Shrimp](/images/mardi-gras-2025/gumbo-with-shrimp.jpg)
 
-Making gumbo starts with the roux. It takes time and patience to reach a rich, dark chocolate brown. Mixing flour and oil for 30-60 minutes can seem tedious, but like anything worthwhile, persistence pays off. Time and hard work create depth, both for the roux and in life.
+Making gumbo starts with the roux. It takes time and patience to reach a rich, dark chocolate brown. Mixing flour and oil for 30 to 60 minutes can seem tedious, but like anything worthwhile, persistence pays off. Time and hard work create depth, both for the roux and in life.
 
 I don’t use a recipe, but I’ve written out the details [here](/blog/gumbo).
 
@@ -53,11 +53,11 @@ Shrove Tuesday is a time to use up rich ingredients before Lent begins, but for 
 
 ![British Pancakes](/images/mardi-gras-2025/crepe.jpg)
 
-In the UK, Shrove Tuesday is all about pancakes, but not the thick, fluffy versions with maple syrup that Americans expect. Instead, these are thin crepe-like pancakes.
+In the UK, Shrove Tuesday is all about pancakes, but not the thick, fluffy ones with maple syrup that Americans expect. Instead, these are thin crepe-like pancakes.
 
 I make savory ones for dinner. I fill the vegetarian ones with sautéed spinach, mushrooms, sun-dried tomatoes, and goat cheese. The meat ones are filled with ham, brie, and cornichons (mini pickles).
 
-For dessert, the classic British version is simply topped with lemon juice and sugar. I also make a chocolate version with bananas and roasted walnuts.
+For dessert, the classic version in Britain is simply topped with lemon juice and sugar. I also make a chocolate version with bananas and roasted walnuts.
 
 This simple dish connects us to family traditions while we create our own memories each year.
 

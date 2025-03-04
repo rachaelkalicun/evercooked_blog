@@ -32,11 +32,11 @@ ingredients:
 
 cuisine: Cajun, Creole
 instructions:
-  - "Make the Roux: Put on your favorite music. In a heavy pot or Dutch oven, heat the oil over medium-low heat. Add the flour and stir continuously with a wooden spoon or whisk. Keep stirring for 30-60 minutes. It will change from blonde to peanut-butter brown to dark-chocolate brown. Be careful not to burn it."
+  - "Make the Roux: Put on your favorite music. In a heavy pot or Dutch oven, heat the oil over medium-low heat. Add the flour and stir continuously with a wooden spoon or whisk. Keep stirring for 30 to 60 minutes. It will change from blonde to peanut-butter brown to dark-chocolate brown. Be careful not to burn it."
   - "Build the Gumbo: Add the onions, celery, and bell pepper to the roux. Stir well and let the vegetables soften for about 5 minutes. Add the garlic, chilies (if using), and spices. Cook for another minute until fragrant."
-  - "Simmer the Gumbo: Pour in the stock and add the tomatoes and okra. Bring it to a gentle simmer and let it cook for 30 minutes to an hour. Stir occasionally so it doesn't stick to the bottom of the pan."
+  - "Simmer the Gumbo: Pour in the stock and then add the tomatoes and okra. Bring it to a gentle simmer and let it cook for 30 minutes to an hour. Stir occasionally so it doesn't stick to the bottom of the pan."
   - "Prepare the Protein: While the gumbo cooks, sauté the vegetarian meat if using until browned. If making the meat version, sauté the sausage."
-  - "Finish & Serve: Stir the protein into the gumbo and let everything meld for 15 minutes. If using shrimp, add at the very end and let cook just until pink. Serve in bowls with a sprinkle of filé powder on top and a scoop of rice if you want."
+  - "Finish & Serve: Stir the protein into the gumbo and let everything meld for 15 minutes. If using shrimp, add at the very end and let cook just until pink. Serve in bowls with a sprinkle of filé powder on top and a scoop of rice if desired."
 ---
 
 Gumbo is a simple dish, but like many things worth pursuing, it demands patience and perseverance. Cooking the roux until it's dark brown is the key to a flavorful gumbo, and that takes a bit of brawn.
@@ -97,7 +97,7 @@ Put on your favorite music.
 
 In a heavy pot or Dutch oven, heat the oil over medium-low heat. Add the flour and stir continuously with a wooden spoon or whisk.
 
-Keep stirring for 30-60 minutes. It will change from blonde to peanut-butter brown to dark-chocolate brown. Be careful not to burn it. Higher heat will speed up the process but also increases the risk of burning. (My last roux took a full hour.)
+Keep stirring for 30 to 60 minutes. It will change from blonde to peanut-butter brown to dark-chocolate brown. Be careful not to burn it. Higher heat will speed up the process but also increases the risk of burning. (My last roux took a full hour.)
 
 ### **2. Build the Gumbo**
 Add the onions, celery, and bell pepper to the roux. Stir well and let the vegetables soften for about 5 minutes.
@@ -105,7 +105,7 @@ Add the onions, celery, and bell pepper to the roux. Stir well and let the veget
 Add the garlic, chilies (if using), and spices. Cook for another minute until fragrant.
 
 ### **3. Simmer the Gumbo**
-Pour in the stock and add the tomatoes and okra.
+Pour in the stock and then add the tomatoes and okra.
 
 Bring it to a gentle simmer and let it cook for 30 minutes to an hour (or even longer).
 
@@ -117,4 +117,4 @@ While the gumbo cooks, sauté the vegetarian meat if using until browned. If mak
 ### **5. Finish & Serve**
 Stir the protein into the gumbo and let everything meld for 15 minutes. If using shrimp, add at the very end and let cook just until pink.
 
-Serve in bowls with a sprinkle of filé powder on top and a scoop of rice if you want.
+Serve in bowls with a sprinkle of filé powder on top and a scoop of rice if desired.

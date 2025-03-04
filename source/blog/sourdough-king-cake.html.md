@@ -38,7 +38,7 @@ instructions:
   - Once cooled, decorate with glaze and colored sugar.
 ---
 
-King Cake is a celebration of tradition and community. In New Orleans, people eat it from January 6, known as Epiphany. This day celebrates when the three wise men visited baby Jesus. They continue eating it until Mardi Gras. A plastic baby is hidden inside. The person who finds it is said to be blessed with luck and prosperity.
+King Cake is a celebration of tradition and community. In New Orleans, people eat it from January 6, known as Epiphany, which marks the day the three wise men visited baby Jesus. The tradition continues until Mardi Gras. A plastic baby is hidden inside, and whoever finds it is said to be blessed with luck and prosperity.
 
 Today, there are many variations, like cinnamon-sugar or cream cheese fillings. I kept this one traditional. It's a simple brioche dough, decorated with the symbolic colors of purple, green, and gold. Purple stands for justice, green represents faith, and gold signifies power.
 
