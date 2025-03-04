@@ -15,7 +15,7 @@ ingredients:
   - 100 g (3/4 cup) bubbly, active sourdough starter
   - 24 g (2 tbsp) sugar
   - 300 g (21/2 cups) all-purpose flour
-  - 3 g (1/2 tsp) fine sea salt
+  - 3 g (1/2 tsp) salt
   - Oil, for the bowl
   - 28 g (2 tbsp) butter, melted (for brushing)
   - Colored sugar or icing for decoration (optional)
@@ -29,8 +29,8 @@ cuisine: Cajun, Creole
 instructions:
   - Feed your sourdough starter the day before baking to make sure it’s bubbly and active.
   - Warm the milk and 85 g (6 tbsp) butter in a small saucepan or microwave. Let cool slightly.
-  - Add the egg, egg yolks, sourdough starter, and sugar to the bowl of a stand mixer. Mix to combine using the paddle attachment. Slowly pour in the warm milk mixture. Add flour and salt, mixing until a rough dough forms. Cover with a damp towel and rest for 30 minutes.
-  - Switch to the dough hook and knead on medium-low speed for 6 to 8 minutes. Adjust with flour if too sticky. The dough should be soft, smooth, and slightly tacky.
+  - Add the egg, egg yolks, sourdough starter, and sugar to the bowl of a stand mixer. Mix to combine. Slowly pour in the warm milk mixture. Add flour and salt, mixing until a rough dough forms. Cover with a damp towel and rest for 30 minutes.
+  - Knead on medium-low speed for 6 to 8 minutes. Adjust with flour if too sticky. The dough should be soft, smooth, and slightly tacky.
   - Transfer the dough to a lightly oiled bowl. Cover with a damp towel and let rise at room temperature for 8 to 10 hours (or overnight).
   - Preheat your oven to 375°F (190°C). Line a sheet pan with parchment paper or a silicone mat. Dump the dough onto a lightly floured surface. Let it rest for 5–10 minutes. Roll into a 15 x 10-inch  rectangle. Roll it into a tight log, seam side down, and shape into a ring. Let rest for 10–15 minutes.
   - Brush with melted butter. Cover and let rise until puffy, about 1 hour.
@@ -44,7 +44,7 @@ Today, there are many variations, like cinnamon-sugar or cream cheese fillings. 
 
 Like all yeast-based baking in my household, I use a sourdough starter. It adds depth and tang, and it’s a practical choice since I already have the starter.
 
-Make it your own. While I kept it simple, feel free to add fillings like cinnamon-sugar, jam, or cream cheese. You can also knead cinnamon into the dough.
+Make it your own. While I kept it simple, feel free to add fillings like cinnamon-sugar with pecans, jam, or cream cheese. You can also knead cinnamon into the dough.
 
 Baking is about enjoying the process. Your dough might not rise as expected, or the glaze could be messy. That’s all part of it. Every time you bake, you gain skills and confidence. You also create traditions that last with you and your loved ones.
 
@@ -55,10 +55,10 @@ Baking is about enjoying the process. Your dough might not rise as expected, or 
 - 160 g (1/2 cup) milk
 - 113 g (1/2 cup) unsalted butter
 - 1 large egg + 2 large egg yolks
-- 100 g (¾ cup) bubbly, active sourdough starter
+- 100 g (3/4 cup) bubbly, active sourdough starter
 - 24 g (2 tbsp) sugar
-- 300 g (21/2 cups) all-purpose flour
-- 3 g (1/2 tsp) fine sea salt
+- 300 g (2 1/2 cups) all-purpose flour
+- 3 g (1/2 tsp) salt
 - Oil, for the bowl
 
 **To Finish**
@@ -69,12 +69,12 @@ Baking is about enjoying the process. Your dough might not rise as expected, or 
 **For the Glaze**
 {: .mb-0 }
 - 120 g (1 cup) powdered sugar
-- 1–2 tbsp milk or heavy cream
+- 1–2 tbsp milk
 - 1 tsp vanilla extract
 
 **For the Colored Sugar**
 {: .mb-0 }
-- 1/2 cup granulated sugar
+- 3 tbsp granulated sugar for each color
 - Food coloring
 
 ## Instructions
@@ -85,10 +85,10 @@ Feed your sourdough starter the day before baking to make sure it’s bubbly and
 ### **2. Make the Dough**
 Warm the milk and 85 g (6 tbsp) of butter in a small saucepan or microwave. Let it cool slightly.
 
-Add the egg, egg yolks, sourdough starter, and sugar to the bowl of a stand mixer. Mix to combine using the paddle attachment. With the mixer running, slowly pour in the warm milk mixture. Add the flour and salt, mixing until a rough dough forms, about 1 minute. Scrape down the sides of the bowl as needed. Cover with a damp towel and let it rest for 30 minutes.
+Add the egg, egg yolks, sourdough starter, and sugar to the bowl of a stand mixer. Mix to combine. With the mixer running, slowly pour in the warm milk mixture. Add the flour and salt, mixing until a rough dough forms, about 1 minute. Scrape down the sides of the bowl as needed. Cover with a damp towel and let it rest for 30 minutes.
 
 ### **3. Knead the Dough**
-Switch to the dough hook and knead on medium-low speed for about 6 to 8 minutes. The dough should be soft, smooth, and slightly tacky but pulling away from the sides of the bowl. If it’s too sticky, sprinkle a bit more flour to adjust the consistency. You’ll notice that it’s a richer dough with more structure due to the added butter and eggs.
+Knead on medium-low speed for about 6 to 8 minutes or until the dough separates from the sides and bottom of the bowl. The dough should be soft, smooth, and slightly tacky. If it’s too sticky, sprinkle a bit more flour to adjust the consistency.
 
 ### **4. Bulk Rise**
 Transfer the dough to a lightly oiled bowl. Cover with a damp towel and let rise at room temperature until doubled in size, about 8 to 10 hours (or overnight).
@@ -96,16 +96,16 @@ Transfer the dough to a lightly oiled bowl. Cover with a damp towel and let rise
 ### **5. Shape the Dough**
 Preheat your oven to 375°F (190°C). Line a sheet pan with parchment paper or a silicone baking mat.
 
-Dump the dough onto a lightly floured surface. Let it rest for 5–10 minutes. Roll the dough into a large rectangle, about 15 x 10 inches (38 x 25 cm). Roll it into a tight log, seam side down. Transfer to your prepared sheet pan, shaping it into a ring. Let it rest for 10 to 15 minutes to firm up.
+Dump the dough onto a lightly floured surface. Let it rest for 5–10 minutes. Roll the dough into a large rectangle, about 15 x 10 inches (38 x 25 cm). Roll it into a tight log, seam side down. Transfer to your prepared sheet pan, shaping it into a ring. Let it rest for 5 to 10 minutes.
 
 ### **6. Second Rise**
 Brush the surface and sides of the dough with melted butter. Cover and let rest until puffy, about 1 hour.
 
 ### **7. Bake the Brioche**
-Place the cake in the preheated oven and bake for 20 to 25 minutes, until golden brown. Reduce the heat to 350°F (180°C) and continue baking for another 10 to 15 minutes. The cake should be golden brown and hollow-sounding when tapped.
+Place the cake in the preheated oven and bake for 20 to 25 minutes, until golden brown. You can optionally cover with a large roasting pan, sprayed with water, to provide a moist environment. Reduce the heat to 350°F (180°C), remove the cover if using, and continue baking for another 10 to 15 minutes. The cake should be golden brown and hollow-sounding when tapped.
 
 ### **8. Decorate & Serve**
-Once the cake has cooled, you can decorate it with a glaze and colored sugar.
+Once the cake has cooled, you can decorate it with a glaze and colored sugar. I brush the bread again with melted butter, drizzle on some glaze, pat on the sugar, and drizzle with glaze again!
 
 ---
 
@@ -117,8 +117,6 @@ Once the cake has cooled, you can decorate it with a glaze and colored sugar.
 ---
 
 ## How to Make the Glaze
-1. In a small bowl, whisk together 120 g (1 cup) powdered sugar with 1–2 tbsp milk or heavy cream to reach your desired consistency.
+1. In a small bowl, whisk together 120 g (1 cup) powdered sugar with 1–2 tbsp milk to reach your desired consistency.
 2. Add 1 tsp of vanilla extract for flavor.
 3. Drizzle the glaze over the cooled cake.
-
----

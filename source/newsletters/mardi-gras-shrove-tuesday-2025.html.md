@@ -14,9 +14,7 @@ category: hoiday
 
 Traditions often connect us to our heritage, but we also have the power to create our own. Whether inherited or self-made, they matter. When we cook together or share a dish at the table, we strengthen bonds that go beyond what we're eating.
 
-Each year, as Lent approaches, I acknowledge the occasion with two meals: one for Mardi Gras and another for Shrove Tuesday. This year, they fall on March 4 (tomorrow).
-
-Although I don’t have ties to New Orleans, I’ve created my own Mardi Gras celebration. My husband, on the other hand, grew up in England and introduced me to Shrove Tuesday pancakes. Over time, these traditions, one adopted and one inherited, have become part of our shared story.
+Each year, as Lent approaches, I acknowledge the occasion with two meals: one for Mardi Gras and another for Shrove Tuesday. Although I don’t have ties to New Orleans, I’ve created my own Mardi Gras celebration. My husband, on the other hand, grew up in England and introduced me to Shrove Tuesday pancakes. Over time, these traditions, one adopted and one inherited, have become part of our shared story.
 
 ---
 
@@ -28,7 +26,7 @@ Each year, my Mardi Gras ritual helps shake off the post-Christmas blues. The so
 
 ![Gumbo with Shrimp](/images/mardi-gras-2025/gumbo-with-shrimp.jpg)
 
-Making gumbo starts with the roux. It takes time and patience to reach a rich, dark chocolate brown. Mixing flour and oil for 30 minutes can seem tedious, but like anything worthwhile, persistence pays off. Time and hard work create depth, both for the roux and in life.
+Making gumbo starts with the roux. It takes time and patience to reach a rich, dark chocolate brown. Mixing flour and oil for 30-60 minutes can seem tedious, but like anything worthwhile, persistence pays off. Time and hard work create depth, both for the roux and in life.
 
 I don’t use a recipe, but I’ve written out the details [here](/blog/gumbo).
 
@@ -49,19 +47,19 @@ You can find the full recipe [here](/blog/sourdough-king-cake).
 
 ### Shrove Tuesday: A British Tradition
 
-Shrove Tuesday is a time to use up rich ingredients before Lent begins, but for my husband, it’s also a link to his childhood. Flipping pancakes with a flick of the wrist (sometimes missing the pan entirely) keeps the tradition playful. By making them together, we connect the past to the present, turning a simple ritual into a shared experience.
+Shrove Tuesday is a time to use up rich ingredients before Lent begins, but for my husband, it’s also a link to his childhood. Flipping pancakes with a flick of the wrist (sometimes even missing the pan) keeps the tradition lighthearted. By making them together, we connect the past to the present.
 
 #### Pancakes: The British Version
 
 ![British Pancakes](/images/mardi-gras-2025/crepe.jpg)
 
-In the UK, Shrove Tuesday is all about pancakes, but not the thick, fluffy versions with maple syrup that Americans might expect. Instead, these are thin crepe-like pancakes.
+In the UK, Shrove Tuesday is all about pancakes, but not the thick, fluffy versions with maple syrup that Americans expect. Instead, these are thin crepe-like pancakes.
 
-I make savory ones for dinner. The vegetarian ones are filled with sautéed spinach, mushrooms, sun-dried tomatoes, and goat cheese. The meat ones are usually filled with ham, brie, and cornichons.
+I make savory ones for dinner. I fill the vegetarian ones with sautéed spinach, mushrooms, sun-dried tomatoes, and goat cheese. The meat ones are filled with ham, brie, and cornichons (mini pickles).
 
-For dessert, the classic British version is simply topped with lemon juice and sugar. I also make a chocolate option with bananas and toasted walnuts.
+For dessert, the classic British version is simply topped with lemon juice and sugar. I also make a chocolate version with bananas and roasted walnuts.
 
-This simple, versatile dish connects us to family traditions and gives us a chance to create our own memories.
+This simple dish connects us to family traditions while we create our own memories each year.
 
 ---
 

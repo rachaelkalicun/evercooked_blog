@@ -21,9 +21,9 @@ ingredients:
   - Powdered sugar, for dusting
 cuisine: New Orleans
 instructions:
-  - In a mixer, mix the warm milk, sourdough starter, egg, melted butter, and sugar using the paddle attachment.
+  - In a mixer, mix the warm milk, sourdough starter, egg, melted butter, and sugar.
   - Add the flour and salt, mixing until a sticky dough forms. Cover and let rest for 30 minutes.
-  - Switch to the dough hook and knead on medium-low speed for about 6 to 8 minutes. Transfer to an oiled bowl, cover, and let rise at room temperature for 8-10 hours (or overnight) until doubled in size".
+  - Knead on medium-low speed for about 6 to 8 minutes. Transfer to an oiled bowl, cover, and let rise at room temperature for 8-10 hours (or overnight) until doubled in size.
   - Roll out the dough to 1/4-inch thickness and cut into squares or diamonds. Let them rest for 1-2 hours until puffy.
   - Heat oil in a deep pan to 350°F (175°C). Fry beignets in batches until golden brown, about 1-2 minutes per side.
   - Drain on paper towels and generously dust with powdered sugar. Serve warm.
@@ -49,10 +49,10 @@ Beignets are a beloved part of New Orleans' culinary tradition, and they are bes
 ## Instructions
 
 ### **1. Mix the Dough**
-In a mixer, mix the warm milk, sourdough starter, egg, melted butter, and sugar using the paddle attachment. Add the flour and salt, mixing until a sticky dough forms. Cover and let rest for 30 minutes.
+In a mixer, mix the warm milk, sourdough starter, egg, melted butter, and sugar. Add the flour and salt, mixing until a sticky dough forms. Cover and let rest for 30 minutes.
 
 ### **2. Knead & Bulk Rise**
-Switch to the dough hook and knead on medium-low speed for about 6 to 8 minutes. Transfer to an oiled bowl, cover, and let rise overnight (8–10 hours) at room temperature until doubled in size".
+Knead on medium-low speed for about 6 to 8 minutes or until the dough separates from the sides and bottom of the bowl. Transfer to an oiled bowl, cover, and let rise 8–10 hours (or overnight) at room temperature until doubled in size.
 
 ### **3. Shape & Proof**
 Roll the dough to about 1/4 inch thick on a floured surface. Cut into 2-inch squares or diamonds and place on a floured or parchment-lined tray. Cover and let proof for 1–2 hours until puffy.
