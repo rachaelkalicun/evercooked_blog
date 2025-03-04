@@ -61,4 +61,4 @@ Roll the dough to about 1/4 inch thick on a floured surface. Cut into 2-inch squ
 Heat oil to 350°F (175°C) (or test the temperature by adding a tiny piece of dough) in a heavy-bottomed pot. Fry beignets in batches, about 1–2 minutes per side, until golden brown. Drain on paper towels.
 
 ### **5. Finish & Serve**
-Generously dust with powdered sugar and enjoy warm. Best eaten fresh, with a [café au lait](/blog/cafe-au-lait) à la Café du Monde.
+Generously dust with powdered sugar and enjoy warm. Best eaten fresh with a [café au lait](/blog/cafe-au-lait), just like at Café du Monde.
