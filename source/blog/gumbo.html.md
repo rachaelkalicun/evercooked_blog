@@ -13,14 +13,14 @@ ingredients:
   - 1/2 cup neutral oil (vegetable or canola)
   - 1 large onion, diced
   - 2 stalks celery, diced
-  - 1 green bell pepper, diced
+  - 2 green bell peppers, diced
   - 3 cloves garlic, minced
   - 1–2 chilies, chopped (optional, for heat)
   - 1 teaspoon dried oregano
   - 1 teaspoon dried thyme
   - 1 teaspoon cayenne pepper (adjust to taste)
   - 2 bay leaves
-  - 4 cups vegetable or chicken stock
+  - 8 cups vegetable or chicken stock
   - 1 cup canned diced tomatoes (for a Creole-style gumbo)
   - 1 1/2 cups sliced okra (fresh or frozen)
   - 1 cup Quorn ChiQin (for vegetarian)
@@ -32,7 +32,7 @@ ingredients:
 
 cuisine: Cajun, Creole
 instructions:
-  - "Make the Roux: Put on your favorite music. In a heavy pot or Dutch oven, heat the oil over medium-low heat. Add the flour and stir continuously with a wooden spoon or whisk. Keep stirring for about 30 minutes. It will change from blonde to peanut-butter brown to dark-chocolate brown. Be careful not to burn it."
+  - "Make the Roux: Put on your favorite music. In a heavy pot or Dutch oven, heat the oil over medium-low heat. Add the flour and stir continuously with a wooden spoon or whisk. Keep stirring for 30-60 minutes. It will change from blonde to peanut-butter brown to dark-chocolate brown. Be careful not to burn it."
   - "Build the Gumbo: Add the onions, celery, and bell pepper to the roux. Stir well and let the vegetables soften for about 5 minutes. Add the garlic, chilies (if using), and spices. Cook for another minute until fragrant."
   - "Simmer the Gumbo: Pour in the stock and add the tomatoes and okra. Bring it to a gentle simmer and let it cook for 30 minutes to an hour. Stir occasionally so it doesn't stick to the bottom of the pan."
   - "Prepare the Protein: While the gumbo cooks, sauté the vegetarian meat if using until browned. If making the meat version, sauté the sausage."
@@ -58,15 +58,15 @@ Put on some music, find a rhythm, and let the stir become a quiet meditation. Wa
 {: .mb-0 }
 - 1 large onion, diced
 - 2 stalks celery, diced
-- 1 green bell pepper, diced
+- 2 green bell peppers, diced
 - 3 cloves garlic, minced
 - 1–2 chilies, chopped (optional, for heat)
 - 1 teaspoon dried oregano
 - 1 teaspoon dried thyme
 - 1 teaspoon cayenne pepper (adjust to taste)
 - 2 bay leaves
-- 4 cups vegetable or chicken stock
-- 1 cup canned diced tomatoes (for a Creole-style gumbo)
+- 8 cups vegetable or chicken stock
+- 1 cup canned diced or crushed tomatoes (for a Creole-style gumbo)
 - 1 1/2 cups sliced okra (fresh or frozen)
 
 **For the Protein**
@@ -97,7 +97,7 @@ Put on your favorite music.
 
 In a heavy pot or Dutch oven, heat the oil over medium-low heat. Add the flour and stir continuously with a wooden spoon or whisk.
 
-Keep stirring for about 30 minutes. It will change from blonde to peanut-butter brown to dark-chocolate brown. Be careful not to burn it.
+Keep stirring for 30-60 minutes. It will change from blonde to peanut-butter brown to dark-chocolate brown. Be careful not to burn it. Higher heat will speed up the process but also increases the risk of burning. (My last roux took a full hour.)
 
 ### **2. Build the Gumbo**
 Add the onions, celery, and bell pepper to the roux. Stir well and let the vegetables soften for about 5 minutes.
@@ -107,7 +107,7 @@ Add the garlic, chilies (if using), and spices. Cook for another minute until fr
 ### **3. Simmer the Gumbo**
 Pour in the stock and add the tomatoes and okra.
 
-Bring it to a gentle simmer and let it cook for 30 minutes to an hour.
+Bring it to a gentle simmer and let it cook for 30 minutes to an hour (or even longer).
 
 Stir occasionally so it doesn't stick to the bottom of the pan.
 
