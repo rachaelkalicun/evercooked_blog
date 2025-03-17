@@ -30,9 +30,11 @@ instructions:
   - Strain the gløgg into the cups and serve hot.
 ---
 
-Gløgg is a beloved Scandinavian tradition, especially during the cold winter months. It's the perfect holiday drink for cozying up with friends and family, and simmering it fills your house with warmth and festive cheer. In Denmark, it's typically enjoyed at Christmas markets and festive gatherings, embodying the Danish concept of coziness: hygge. Whether you're looking to warm up after a chilly day or are seeking to add a new holiday tradition to your celebration, gløgg is the answer.
+Gløgg is a beloved Scandinavian tradition, especially during the cold winter months. It's the perfect holiday drink for cozying up with friends and family, and simmering it fills your house with warmth and festive cheer. In Denmark, gløgg is typically served at Christmas markets and festive gatherings, embodying the Danish concept of coziness: hygge. While it's a "holiday" drink, remember that you don’t have to wait for the holidays to enjoy this drink. You have the freedom to make it anytime you want, creating your own moments of comfort and connection, no matter the season.
 
 Feel free to adjust the sweetness and spice levels to suit your taste. Gløgg is all about personalization and creating a comforting, festive drink that brings people together.
+
+Whether you’re warming up after a chilly day or looking to add a new tradition to your celebrations, gløgg is a beautiful way to embrace the spirit of togetherness and warmth.
 
 This recipe makes 2 small cups, perfect for sharing on a cozy night in.
 
