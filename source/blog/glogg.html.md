@@ -8,7 +8,6 @@ featured_image: "/images/danish-traditions-2025/glogg.jpg"
 full_image: "/images/danish-traditions-2025/glogg.jpg"
 category: recipe
 jump_to_recipe: true
-recipe: true
 ingredients:
   - 1 orange
   - 1 1/2 cups / 375ml (1/2 bottle) red wine
