@@ -38,7 +38,7 @@ instructions:
 
 ---
 
-Rugbrød is a traditional Danish rye bread. It's dense, earthy, and sour, making it the perfect base for smørrebrød, Danish open-faced sandwiches. Butter is essential ("smør" means butter, after all), but the other toppings are up to you. You can go the traditional route with pickled herring or sliced meats and cheeses, or you can put your own creative spin on it. Either way, it's a timeless way to honor tradition.
+Rugbrød is a traditional Danish rye bread. It's dense, earthy, and sour, making it the perfect base for smørrebrød, Danish open-faced sandwiches. Butter is essential ("smør" means butter, after all), but the other toppings are up to you. You can go the traditional route with pickled herring or sliced meats and cheeses, or you can put your own creative spin on it. Either way, it's a timeless way to honor tradition. You can find both traditional and modern ideas for smørrebrød [here](/blog/beet-salmon-potato-egg-smorrebrod).
 
 This bread is baked in a Pullman pan, specifically a [13x4-inch Pullman pan](https://www.amazon.com/USA-Pan-Bakeware-Nonstick-Aluminized/dp/B002UNMZPI/ref=sr_1_1){:target="_blank"}, which gives it its rectangular shape. The straight sides and lid help create the uniform slices that make it perfect for smørrebrød. If you wanted to use a standard loaf pan instead, reduce the recipe by about 1.75 times to fit properly.
 
@@ -47,8 +47,6 @@ Like any new recipe or tradition, making rugbrød takes patience, and there may 
 Whether you're new to baking or an experienced cook, I hope this recipe inspires you to try it. Don’t stress about perfection. Celebrate the journey. If you run into challenges, remember it’s all part of the process. I’m here cheering you on every step of the way.
 
 This recipe was adapted from [_Overnight Danish Rye Bread_](https://www.amazon.com/Artisan-Sourdough-Made-Simple-Handcrafted/dp/1624144292/ref=sr_1_1){:target="_blank"} from _Artisan Sourdough Made Simple_ by Emilie Raffa.
-
-![Rugbrod Danish Rye Bread](/images/danish-traditions-2025/rugbrod-danish-rye-bread-sliced.jpg)
 
 
 <h2 id="recipe-target">Ingredients</h2>
