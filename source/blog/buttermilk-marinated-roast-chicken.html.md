@@ -43,6 +43,8 @@ Roast chicken is one of my go-to comfort meals. It’s satisfying, easy, and rea
 
 Want to make this a full British Sunday roast? I usually serve it with <a href="/blog/yorkshire-pudding" title="Yorkshire pudding recipe from Evercooked">homemade Yorkshire pudding</a>, which adds the perfect golden, crispy complement to the chicken.
 
+If you want to stretch the chicken even further, save the bones and make soup. Here’s one of my favorite ways to use the leftovers: [Italian Chicken Soup with Orzo and Tomato](/blog/italian-chicken-soup).
+
 **Tip:** Using a meat thermometer has completely changed the way I cook meat. It takes the guesswork out of doneness and builds real confidence in the kitchen. If you don’t have one, it’s worth the investment.
 
 <h2 id="recipe-target">Ingredients</h2>
