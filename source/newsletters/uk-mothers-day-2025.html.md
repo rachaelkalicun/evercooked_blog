@@ -82,15 +82,11 @@ It helps us remember who we are and where we come from. Food carries stories, an
 
 ---
 
-## What Traditions Live at Your Table?
-
-Do you blend cultures in your cooking, revisit old family recipes, or keep certain dishes for special times of year? I’d love to hear what traditions you’re carrying forward or making your own. Share your story with the Evercooked community or reply to this email.
-
----
-
 ## Connect with Evercooked
 
-Follow along for stories, recipes, and the traditions that shape our kitchens:
+Do you blend cultures in your cooking, revisit old family recipes, or keep certain dishes for special times of year? I’d love to hear what traditions you’re carrying forward or making your own. Share your story with the Evercooked community using #evercooked.
+
+Or just follow along for stories, recipes, and the traditions that shape our kitchens:
 
 [📸 Instagram](https://www.instagram.com/evercookeddotcom/)
 
