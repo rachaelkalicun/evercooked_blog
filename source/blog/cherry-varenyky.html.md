@@ -35,7 +35,7 @@ For years, I only made savory varenyky, but more recently, I’ve added cherry t
 
 The dough is simple: flour, salt, water, and butter. I use a stand mixer and pasta roller, but hand-kneading and rolling works just as well.
 
-I freeze big batches at Christmas so there’s always some on hand. This recipe makes about 40 dumplings, and the dough is just as good with savory fillings like potato and cheese. Once you’ve got the dough down, you can take it in any direction you like.
+I freeze big batches at Christmas so there’s always some on hand. This recipe makes about 40 dumplings, and the dough is just as good with savory fillings like potato and cheese. Once you’ve made the dough, you can take it in any direction you want.
 
 <h2 id="recipe-target">Ingredients</h2>
 

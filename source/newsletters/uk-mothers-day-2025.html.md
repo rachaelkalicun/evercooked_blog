@@ -26,7 +26,7 @@ This year, from the US, I wanted to honor the mix of traditions she brought toge
 
 ![British roast dinner with chicken, roast potatoes, brussels sprouts, yorksire pudding, carrots, and parsnips](/images/uk-mothers-day-2025/british-sunday-roast-dinner.jpg)
 
-The Sunday roast is a mainstay of British food culture. Served at lunchtime in homes or pubs, it typically includes roasted meat, potatoes, vegetables, and Yorkshire pudding or stuffing.
+The Sunday roast is a mainstay of British food culture. Served at lunchtime in homes or pubs, it includes roasted meat, potatoes, vegetables, and Yorkshire pudding or stuffing.
 
 When I make a roast dinner here in the US, my husband connects with his upbringing and with his mother, too. When he tells me my roast dinner tastes just like hers, it’s the highest compliment. It’s not about perfection, but about the feeling it brings.
 
@@ -38,7 +38,7 @@ I didn’t grow up making Yorkshire puddings or eating them, but I’ve taught m
 
 See my Yorkshire pudding recipe [here](/blog/yorkshire-pudding).
 
-I also made a roast chicken marinated in some leftover buttermilk. From a practical standpoint, I had buttermilk to use up, but I also wanted to explore something new beyond the usual pancakes or biscuits. The result surprised me in the best way.
+On Sunday, I made a roast chicken marinated in some leftover buttermilk. From a practical standpoint, I had buttermilk to use up, but I also wanted to explore something new beyond the usual pancakes or biscuits. The result surprised me in the best way. The chicken was extremely tender, juicy, and flavorful.
 
 ![Whole roast chicken marinated in buttermilk](/images/uk-mothers-day-2025/buttermilk-roast-chicken.jpg)
 
@@ -52,9 +52,9 @@ Get the buttermilk roast chicken recipe [here](/blog/buttermilk-marinated-roast-
 
 After the roast comes the soup. The leftover chicken and bones became the base for something new, a soup that holds its own kind of meaning.
 
-Before I met my mother-in-law, my idea of chicken soup was the classic chicken noodle I grew up with, or later, the kind with matzo balls. In every form, chicken soup has always been one of my favorite dishes, the ultimate comfort, but never with tomatoes. I never would’ve thought to add tomatoes, so this version is definitely one passed down to me. Here it is: chicken soup with tomatoes and orzo, Italian style, taught to me by my mother-in-law.
+Before I met my mother-in-law, my idea of chicken soup was the classic chicken noodle I grew up with, or later, the kind with matzo balls. In every form, chicken soup has always been one of my favorite dishes, the ultimate comfort, but never with tomatoes. I never would’ve thought to add tomatoes, so this version is definitely one passed down to me.
 
-Learn the technique [here](/blog/italian-chicken-soup).
+Here it is: chicken soup with tomatoes and orzo, Italian style, taught to me by my mother-in-law. Learn the technique [here](/blog/italian-chicken-soup).
 
 ---
 
@@ -64,7 +64,7 @@ Learn the technique [here](/blog/italian-chicken-soup).
 
 Varenyky have become a significant part of my year. I continue making them each year as part of the traditional Ukrainian Christmas Eve meal my mother-in-law embraced and helped shape. It’s the most meaningful meal of the year.
 
-This year, I decided to try something new: cherry varenyky. Sweet and tangy, wrapped in the same dough, just filled with something different. We didn’t get around to them at Christmas, but we finally made them now, and they made a perfect dessert to round out this multicultural celebration.
+This year, I decided to try something new: cherry varenyky. Sweet and tangy, wrapped in the same dough, just filled with something different. We didn’t get around to eating them at Christmas, but we finally made them now, and they made a perfect dessert to round out this multicultural celebration. They were better than I expected!
 
 See my cherry varenyky recipe [here](/blog/cherry-varenyky).
 
@@ -72,9 +72,7 @@ See my cherry varenyky recipe [here](/blog/cherry-varenyky).
 
 ## Why It Matters
 
-Food doesn’t always follow the calendar. Sometimes it shows up when we need it, when we finally have the energy, or when memory calls it back. These meals stretched across seasons, cultures, and generations, and that felt just right.
-
-I honored my mother-in-law through cooking these traditions. She wove cultures together without fanfare, and she brought quiet leadership to her kitchen. In my own way, I’m trying to carry that forward.
+I honored my mother-in-law through cooking these traditions. She wove cultures together without fanfare, and she brought quiet leadership to her kitchen. In my own way, I’m trying to carry that forward. These meals stretched across seasons, cultures, and generations, and that felt just right.
 
 If you’re honoring someone through your cooking, reviving a family recipe, or trying something new, I hope this encourages you to keep going. The work you’re doing in your kitchen is enough. It matters.
 

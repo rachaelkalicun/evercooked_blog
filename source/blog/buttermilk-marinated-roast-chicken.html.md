@@ -41,7 +41,7 @@ I first tried this technique because I had some leftover buttermilk from making 
 
 Roast chicken is one of my go-to comfort meals. It’s satisfying, easy, and really nostalgic. In this version, simply give the marinade time to work, roast the chicken, and let it rest before carving. It’s the kind of dish that feels special and is consistently good without demanding much from you.
 
-Want to make this a full British Sunday roast? I usually serve it with <a href="/blog/yorkshire-pudding" title="Yorkshire pudding recipe from Evercooked">homemade Yorkshire pudding</a>, which adds the perfect golden, crispy complement to the chicken.
+Want to make this a full British Sunday roast? Serve it with <a href="/blog/yorkshire-pudding" title="Yorkshire pudding recipe from Evercooked">homemade Yorkshire pudding</a>, which adds the perfect golden, crispy complement to the chicken.
 
 If you want to stretch the chicken even further, save the bones and make soup. Here’s one of my favorite ways to use the leftovers: [Italian Chicken Soup with Orzo and Tomato](/blog/italian-chicken-soup).
 
@@ -69,12 +69,12 @@ If you want to stretch the chicken even further, save the bones and make soup. H
 ## How to Make Buttermilk Brined Roast Chicken
 
 ### **1. Salt and Marinate**
-Rub salt all over the chicken and let it sit for 30 minutes. If using garlic, lightly smash the cloves. Stir the salt into the buttermilk until dissolved. Then add the garlic. Pour the buttermilk mixture over the chicken in a sealed bag or container (I use a vacuum-sealed bag). Refrigerate for 12 to 24 hours, rotating the chicken occasionally if you remember.
+Rub salt all over the chicken and let it sit for 30 minutes. If using garlic, lightly smash the cloves. Stir the salt into the buttermilk until dissolved. Then add the garlic. Pour the buttermilk mixture over the chicken in a sealed bag or container (I used a vacuum-sealed bag). Refrigerate for 12 to 24 hours, rotating the chicken occasionally if you remember.
 
 ![Whole chicken marinating in salted buttermilk and garlic in a vacuum-sealed bag](/images/uk-mothers-day-2025/marinating-buttermilk-roast-chicken.jpg)
 
 ### **2. Prepare to Roast**
-Remove the chicken from the refrigerator about an hour before cooking. Preheat the oven to 425°F. Shake off any excess marinade. If using garlic, you can stuff the cloves into the cavity. Tie the legs with butcher’s twine if you’d like, though it’s not essential.
+Remove the chicken from the refrigerator about an hour before cooking. Preheat the oven to 425°F. Shake off any excess marinade. If using garlic, you can stuff the cloves into the cavity. Tie the legs with butcher’s twine if you’d like although it’s not essential.
 
 ![Raw buttermilk-marinated chicken in a cast iron skillet](/images/uk-mothers-day-2025/raw-buttermilk-roast-chicken.jpg)
 

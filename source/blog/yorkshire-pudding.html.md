@@ -22,7 +22,7 @@ instructions:
   - In a blender, combine the eggs, milk, flour, salt, black pepper, and any optional spices. Blend until smooth.
   - Let the batter rest at room temperature for at least one hour.
   - Preheat the oven to 425°F (218°C).
-  - Add about 1 tablespoon of canola oil to seven wells of a muffin tin. Place the tin on the top rack of the oven and heat for at least 30 minutes, until the oil is very hot.
+  - Add about 1 tablespoon of canola oil to ten wells of a muffin tin. Place the tin on the top rack of the oven and heat for at least 30 minutes, until the oil is very hot.
   - Carefully remove the hot tin from the oven and pour in the batter, filling each well about 3/4 full. The batter should sizzle as it hits the oil.
   - Return the tin immediately to the oven and bake for 15-20 minutes, or until the puddings are tall, golden brown, and crisp. Do not open the oven door during baking.
   - Serve hot, ideally alongside a roast dinner and gravy.
@@ -36,7 +36,7 @@ I make mine in a standard muffin tin, using canola oil and whatever milk I have 
 
 This recipe isn’t just about a side dish. It’s about sticking with something that takes perseverance. It’s about doing something worthwhile even when the outcome is unpredictable.
 
-This version makes six or seven tall, golden Yorkshire puddings, depending on how full you fill each cup in a standard muffin tin.
+This version makes nine or ten tall, golden Yorkshire puddings, depending on how full you fill each cup in a standard muffin tin.
 
 
 <h2 id="recipe-target">Ingredients</h2>
@@ -58,7 +58,7 @@ This version makes six or seven tall, golden Yorkshire puddings, depending on ho
 In a blender, combine the eggs, milk, flour, salt, black pepper, and any optional spices. Blend until smooth. Let the batter rest at room temperature for at least one hour.
 
 ### **2. Preheat the Oven and Heat the Oil**
-Preheat the oven to 425°F. Add about 1 tablespoon of canola oil to seven wells of a muffin tin. Place the tin on the top rack and heat for at least 30 minutes, until the oil is very hot.
+Preheat the oven to 425°F. Add about 1 tablespoon of canola oil to ten wells of a muffin tin. Place the tin on the top rack and heat for at least 30 minutes, until the oil is very hot.
 
 ### **3. Pour the Batter**
 Carefully remove the hot tin from the oven. Working very quickly so that the batter hits the hottest oil possible, pour the batter into each well, filling about 3/4 of the way full. It should sizzle immediately.
