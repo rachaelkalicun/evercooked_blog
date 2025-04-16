@@ -1,7 +1,7 @@
 ---
 title: "Simple Ragu with Beef and Pork"
 on_page_title: "Simple Ragu with Beef and Pork"
-date: "2025-04-15"
+date: "2025-04-14"
 tags: ragu, pasta sauce, Italian, slow-cooked, tradition, vegetarian option
 description: A simple, slow-cooked ragu made with beef and pork—minimal ingredients, deep flavor, and a vegetarian variation included.
 featured_image: "/images/pre-easter-2025/beef-pork-ragu.jpg"
