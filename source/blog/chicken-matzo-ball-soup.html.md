@@ -60,7 +60,7 @@ This is not just about honoring someone else’s tradition. It’s about noticin
 - Salt and pepper, to taste
 - Water to cover (about 8–10 cups)
 
-**For the Matzo Balls (Makes about 8):**
+**For the Matzo Balls (Makes about 12):**
 {: .mb-0 }
 
 - 2 large eggs, lightly beaten
