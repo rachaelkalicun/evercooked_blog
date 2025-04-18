@@ -14,7 +14,7 @@ category: holiday
 
 ### A time for pausing, remembering, and starting fresh.
 
-Today and this week hold deep meaning across traditions. It’s Good Friday, a solemn pause before Easter’s celebration on Sunday, and it’s also the middle of Passover. While I didn’t grow up celebrating Passover, I’m honoring both holidays through food, reflection, and the people I’ve shared the table with.
+Today and this week hold deep meaning across traditions. It’s Good Friday, a solemn pause before Easter’s celebration on Sunday, and it’s also Passover. While I didn’t grow up celebrating Passover, I’m honoring both holidays through food, reflection, and the people I’ve shared the table with.
 
 I cooked three dishes that carry meaning in different ways: two are traditions I’ve chosen to continue, and one that was new to me. Each one reminded me that tradition can be both inherited and created, and that putting in the effort, even when the results aren’t guaranteed, is always worthwhile.
 
