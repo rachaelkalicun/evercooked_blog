@@ -37,7 +37,7 @@ Aim for a dough that isn’t too dry, and stretch the pieces fairly thin so they
 
 ## Parmatieddi (Palm Sunday Pasta)
 
-This traditional pasta is shaped by hand and typically served with meat sauce on Palm Sunday. This version uses semolina flour, but you can use all-purpose if that’s what you have on hand. I served it with homemade focaccia, too, to dip into the delicious ragu.
+This traditional pasta is shaped by hand and typically served with meat sauce on Palm Sunday. This version uses semolina flour, but you can use all-purpose if that’s what you have on hand. I served it with homemade focaccia, too, to dip into the delicious ragu. [Here is a recipe for a simple meat ragu](/blog/pork-beef-ragu).
 
 Makes enough for about 4 servings.
 
@@ -70,6 +70,6 @@ Makes enough for about 4 servings.
    Bring a pot of salted water to a boil. Add the pasta and cook until softened. This can take anywhere from 8 to 20 minutes depending on thickness. Begin checking at 8 minutes, then check every few minutes after that until the texture is soft but still holds together.
 
 5. **Serve:**
-   Drain and toss with sauce and plenty of grated Parmesan cheese. This pasta is traditionally paired with a meat ragu but would work with your favorite sauce.
+   Drain and toss with sauce and plenty of grated Parmesan cheese. This pasta is traditionally paired with a meat ragu but would work with your favorite sauce. [Try this simple meat ragu](/blog/pork-beef-ragu).
 
 	 ![Parmatieddi hand-rolled pasta served with focaccia and ragu sauce](/images/pre-easter-2025/parmatieddi-with-focaccia.jpg)
