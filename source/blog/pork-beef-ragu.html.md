@@ -16,7 +16,7 @@ ingredients:
   - 2 cloves garlic, crushed and minced
   - 1 carrot, minced
   - 1 celery stalk, minced
-  - 2 (14–15 oz) cans whole peeled tomatoes, pureed
+  - 2 (28 oz/800g) cans whole peeled tomatoes, pureed
   - Salt to taste
 cuisine: Italian
 
@@ -46,7 +46,7 @@ This is the kind of cooking that doesn't need a recipe. With practice and repeti
 - 2 cloves garlic, crushed and minced
 - 1 carrot, minced
 - 1 celery stalk, minced
-- 2 (14–15 oz) cans whole peeled tomatoes, pureed
+- 2 (28 oz/800g) cans whole peeled tomatoes, pureed
 - Salt to taste
 
 ### Instructions
