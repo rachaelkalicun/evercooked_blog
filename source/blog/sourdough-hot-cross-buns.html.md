@@ -22,8 +22,8 @@ ingredients:
   - 60g (scant 1/2 cup) raisins
   - 60g (scant 1/2 cup) chopped chocolate or chocolate chips (any kind you like)
 crosses:
-  - 50g all-purpose flour
-  - Water to make a stiff paste
+  - 75g all-purpose flour
+  - Water to make a stiff paste, about 90ml (2/3 cup)
 glaze:
   - 25g sugar
   - 30ml water
@@ -31,9 +31,9 @@ instructions:
   - Feed your sourdough starter with 90g flour and 90g water. Let it sit at room temperature until bubbly and active. Measure out 150g for the recipe.
   - In the bowl of a stand mixer fitted with a dough hook, combine the starter, salt, water, melted butter, spices, sugar, and flours (including vital wheat gluten, if using). Knead for 8–10 minutes, until the dough is smooth and elastic.
   - Once kneaded, divide the dough in half. Return one half to the mixer and add the raisins. Knead briefly to incorporate evenly, then transfer to a clean bowl. Repeat with the chocolate chips or chopped chocolate in the second half.
-  - Cover both bowls and let the dough rest at room temperature. Over the next few hours, do 1–2 stretch-and-folds in the bowl to help develop strength. Then cover again and let rise overnight at room temperature—or refrigerate for a milder flavor.
-  - In the morning, turn the dough onto a lightly floured surface. Divide into 12 equal pieces, roll into balls, and flatten slightly. Place on a parchment-lined or lightly greased tray. Cover and let rest for 10–15 minutes while you prepare the crosses.
-  - Mix the flour with just enough water to make a thick paste that can be piped. Use a piping bag, baking injector, or a resealable bag with the corner snipped off to pipe a cross on each bun.
+  - Cover both bowls and let the dough rest at room temperature. Over the next few hours, do 1–2 stretch-and-folds in the bowl to help develop strength. Then cover again and let rise overnight at room temperature or refrigerate for a milder flavor.
+  - In the morning, turn the dough onto a lightly floured surface. Divide into 12 equal pieces. You can weigh if you want to be exact. They will be about 100g. Roll into balls and flatten slightly. Place on a parchment/silicon-lined or lightly greased tray. Cover and let rest for 10–15 minutes while you prepare the crosses.
+  - Mix the flour with just enough water to make a thick paste that can be piped. Use a piping bag, baking injector, or a resealable bag with the corner snipped off to pipe a cross on each bun. Use a knife to detach the end of dough to finish the line.
   - Preheat the oven to 400°F (200°C). Bake the buns for 20–25 minutes, until golden and hollow-sounding underneath. For extra lift, add steam to the oven by tossing ice cubes into a preheated pan on the bottom rack.
   - While the buns bake, heat the sugar and water for the glaze until the sugar has dissolved. Brush over the buns immediately after baking, then cool on a wire rack.
 
@@ -77,7 +77,7 @@ This recipe is loosely adapted from a version I found on [Lavender & Lovage](htt
 **For the crosses:**
 {: .mb-0 }
 - 50g (1/3 cup + 1 tbsp) all-purpose flour
-- Water to make a stiff paste
+- Water to make a stiff paste, about 90ml (2/3 cup)
 
 **For the glaze:**
 {: .mb-0 }
@@ -96,27 +96,28 @@ This recipe is loosely adapted from a version I found on [Lavender & Lovage](htt
 
 3. **Add inclusions & fold:**
    Once kneaded, divide the dough in half. Return one half to the mixer and add the raisins. Knead briefly to incorporate evenly, then transfer to a clean bowl. Repeat with the chocolate chips or chopped chocolate in the second half.
+	 ![Sourdough chocolate hot cross buns dough](/images/pre-easter-2025/chocolate-hot-cross-bun-dough.jpg)
 
 4. **Stretch, fold, and bulk ferment overnight:**
-   Cover both bowls and let the dough rest at room temperature. Over the next few hours, do 1–2 stretch-and-folds in the bowl to help develop strength. Then cover again and let rise overnight at room temperature, or refrigerate for a milder flavor.
+   Cover both bowls and let the dough rest at room temperature. Over the next few hours, do 1–2 stretch-and-folds in the bowl to help develop strength. Then cover again and let rise overnight at room temperature or refrigerate for a milder flavor.
 
 5. **Shape the buns:**
-   In the morning, turn the dough onto a lightly floured surface. Divide into 12 equal pieces, roll into balls, and flatten slightly. Place on a parchment-lined or lightly greased tray. Cover and let rest for 10–15 minutes while you prepare the crosses.
+   In the morning, turn the dough onto a lightly floured surface. Divide into 12 equal pieces. You can weigh the dough if you want to be exact. They will be about 100g. Roll into balls and flatten slightly. Place on a parchment/silicon-lined or lightly greased tray. Cover and let rest for 10–15 minutes while you prepare the crosses.
 
 6. **Pipe the crosses:**
-   Mix the flour and just enough water to make a thick paste that can be piped. Use a piping bag, baking injector, or a resealable bag with the corner snipped off to pipe a cross on each bun.
+   Mix the flour and just enough water to make a thick paste that can be piped. Use a piping bag, baking injector, or a resealable bag with the corner snipped off to pipe a cross on each bun. Use a knife to detach the end of dough to finish the line.
+	 ![Uncooked hot cross buns](/images/pre-easter-2025/raw-hot-cross-buns.jpg)
 
 7. **Bake:**
    Preheat the oven to 400°F (200°C). Bake the buns for 20–25 minutes until golden and hollow-sounding underneath. For extra lift, add steam to the oven by tossing ice cubes into a preheated pan on the bottom rack.
 
 8. **Glaze and cool:**
    While the buns bake, heat the sugar and water for the glaze until the sugar has dissolved. Brush over the buns immediately after baking, then cool on a wire rack.
-
+	![Sourdough hot cross buns cooling on a rack](/images/pre-easter-2025/hot-cross-buns-cooling.jpg)
 ---
 
 ### Notes
 
 - These buns are traditionally served on Good Friday to mark the end of Lent.
 - Feel free to make all 12 buns with raisins or all with chocolate instead of splitting the batch.
-
-![Sourdough hot cross buns cooling on a rack](/images/pre-easter-2025/sourdough-hot-cross-buns-cooling.jpg)
+![A single sourdough hot cross bun](/images/pre-easter-2025/hot-cross-bun.jpg)

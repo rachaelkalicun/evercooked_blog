@@ -27,7 +27,7 @@ instructions:
   - Add the chicken bones and skin, onion, half the parsley, carrots, and celery to a large pot. (If you prefer your carrots and celery less soft, you can wait and add them later.) Season with salt and pepper and cover with water. Bring to a boil and then reduce to a simmer. Cover and let it cook for about 2 hours, stirring occasionally.
   - While the broth simmers, mix the eggs, oil, matzo meal, salt and pepper (if using), and broth in a bowl. Stir until uniform. Cover and refrigerate for 20 minutes.
   - Use tongs or a slotted spoon to remove the bones and skin. Taste the broth and adjust seasoning if needed. If you held back the vegetables earlier, add them now.
-  - Wet your hands and form the chilled matzo mixture into 1-inch balls. Drop them gently into the soup. Cover, reduce to a simmer, and cook for 30–40 minutes, until puffed and tender.
+  - Wet your hands and form the chilled matzo mixture into 1-inch balls. Drop them gently into the soup. Cover, reduce to a simmer, and cook for 30–40 minutes, until puffed and tender. Don't rush them because hard matzo balls are disappointing.
   - Stir in the shredded chicken and remaining chopped parsley. Simmer until everything is warmed through.
   - Ladle into bowls and serve warm. Add more parsley to finish if you'd like.
 cuisine: Jewish
@@ -75,6 +75,8 @@ This is not just about honoring someone else’s tradition. It’s about noticin
 ### **1. Make the Broth**
 Add the chicken bones and skin, onion, half the parsley, carrots, and celery to a large pot. (If you prefer your carrots and celery less soft, you can wait and add them later.) Season with salt and pepper and cover with water.
 
+![Raw onions, celery, chicken, carrots, and parsley in pot](/images/pre-easter-2025/raw-ingredients-chicken-soup-pot.jpg)
+
 Bring to a boil and then reduce to a simmer. Cover and let it cook for about 2 hours, stirring occasionally and rotating the chicken if still whole.
 
 ### **2. Prepare the Matzo Balls**
@@ -84,7 +86,9 @@ While the broth simmers, mix the eggs, oil, matzo meal, salt and pepper (if usin
 Use tongs or a slotted spoon to remove the bones and skin. Taste the broth and adjust the seasoning if needed. If you held back the vegetables earlier, add them now.
 
 ### **4. Cook the Matzo Balls**
-Wet your hands and form the chilled mixture into 1-inch balls. Drop them gently into the soup. Cover, reduce to a simmer, and cook for 30–40 minutes, until puffed and tender.
+Wet your hands and form the chilled mixture into 1-inch balls. Drop them gently into the soup. Cover, reduce to a simmer, and cook for 30–40 minutes, until puffed and tender. Don't rush them because hard matzo balls are disappointing.
+
+![Matzo balls cooking in chicken soup](/images/pre-easter-2025/matzo-balls-cooking-in-soup.jpg)
 
 ### **5. Finish the Soup**
 Stir in the shredded chicken and remaining chopped parsley. Simmer until everything is warmed through.
